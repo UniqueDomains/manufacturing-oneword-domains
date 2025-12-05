@@ -1,34 +1,34 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 0b10f143-661c-4980-8386-9a2f0a85af07,manufacturing.ai,resell,70,80,13,101domain GRS Limited,15/12/2017 22:18,12/02/2026 22:18
 02fa42ee-e94d-4bdb-bb84-1a7f7dca2ffa,manufacturing.co,expiring,70,80,13,Hello Internet Corp.,20/07/2010 18:00,19/07/2025 23:59
-0cc4540f-c4df-484e-9cab-6c3de612fc57,manufacturing.dev,available,70,80,13,,,
+0cc4540f-c4df-484e-9cab-6c3de612fc57,manufacturing.dev,premium,70,80,13,,,
 b0ba77fc-dbcf-45f8-a3b9-d57ddf904641,manufacturing.gg,available,70,80,13,,,
 303dc1bd-7a10-43ab-829f-5d8d535dc91b,manufacturing.io,resell,70,80,13,Divido Ltd,04/07/2012 00:48,30/04/2027 12:00
 00006beb-fa6e-4794-8178-14dcee01ed58,manufacturing.me,resell,70,80,13,Dynadot Inc,06/10/2010 17:51,06/10/2025 17:51
 2703e1dd-f015-412d-b58a-834d2987ea3f,manufacturing.ninja,resell,70,80,13,Dynadot Inc,09/06/2025 17:00,09/06/2026 17:00
 caaf4bfa-9102-4ff3-8cad-9ab00e4864c4,manufacturing.so,available,70,80,13,,,
-361fb823-4591-43a2-bb7a-15b315cc83ba,manufacturing.store,available,70,80,13,,,
-246bcac4-d906-4ca1-9cc5-29cf3720ef60,manufacturing.tech,available,70,80,13,,,
-5d92d21d-c501-4b13-8fc7-275dfb2a99cf,manufacturing.xyz,available,70,80,13,,,
-e3428271-e86e-48ed-afb4-c5b22d9955ed,assembly.at,available,54,92,8,,,
+361fb823-4591-43a2-bb7a-15b315cc83ba,manufacturing.store,premium,70,80,13,,,
+246bcac4-d906-4ca1-9cc5-29cf3720ef60,manufacturing.tech,premium,70,80,13,,,
+5d92d21d-c501-4b13-8fc7-275dfb2a99cf,manufacturing.xyz,premium,70,80,13,,,
+e3428271-e86e-48ed-afb4-c5b22d9955ed,assembly.at,premium,54,92,8,,,
 f4ff6b34-7c3d-4bd1-aafe-c610d72d4e73,assembly.co,expiring,54,92,8,"GoDaddy.com, LLC",20/07/2010 18:05,19/07/2025 23:59
-b3c6f35b-c885-4727-b090-dc1f1baeb5b2,assembly.online,available,54,92,8,,,
+b3c6f35b-c885-4727-b090-dc1f1baeb5b2,assembly.online,premium,54,92,8,,,
+7fc81036-bf9a-4d55-aebb-56dd07aebab9,machining.ai,resell,54,68,9,"NameCheap, Inc.",26/09/2020 02:11,26/09/2026 02:11
+1fa2d312-947c-4212-a3c5-dc9cd77d8ec8,machining.at,available,54,68,9,,,
+7a60032b-a749-41c6-a224-490dc351192d,machining.co,resell,54,68,9,InternetX GmbH,24/09/2013 00:03,23/09/2025 23:59
 0f7dea83-f51c-44f5-b89d-c55a8adace90,machining.gg,available,54,68,9,,,
 5a5b594a-d4ff-4754-84d4-5f4a44cbfc5a,machining.io,expiring,54,68,9,Dynadot Inc,06/08/2020 05:01,06/08/2025 05:01
 191405be-9dce-4d35-8365-1f987e77750d,machining.it,resell,54,68,9,,21/10/2023 09:00,21/10/2025 00:00
 f8c3c531-054b-486a-821e-1bcda98fb809,machining.me,resell,54,68,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 18:32,14/11/2025 18:32
 87a87adc-b0e4-4f6f-b67f-9824f153fc61,machining.online,available,54,68,9,,,
 836f2f1d-44fb-4949-8bb7-d71669486cb2,machining.pro,resell,54,68,9,Epik LLC,25/09/2022 17:00,25/09/2025 17:00
-f01e8cd2-a3d9-4e9c-ad45-ce2e3221293f,machining.site,available,54,68,9,,,
+f01e8cd2-a3d9-4e9c-ad45-ce2e3221293f,machining.site,premium,54,68,9,,,
 f2ab37e0-bf8a-406f-a0cc-6f738dd03904,machining.so,available,54,68,9,,,
-b1185036-6f9a-4186-8a04-06f362d77373,machining.space,available,54,68,9,,,
-72271a88-a760-4ff4-a6d4-4d2ac92036d7,machining.store,available,54,68,9,,,
-49960337-2fd9-4126-a03e-fe820a980b02,machining.tech,available,54,68,9,,,
+b1185036-6f9a-4186-8a04-06f362d77373,machining.space,premium,54,68,9,,,
+72271a88-a760-4ff4-a6d4-4d2ac92036d7,machining.store,premium,54,68,9,,,
+49960337-2fd9-4126-a03e-fe820a980b02,machining.tech,premium,54,68,9,,,
 962ac663-dc64-4cb5-bdf3-0da2ebf567c5,machining.us,resell,54,68,9,"GoDaddy.com, LLC",08/07/2012 18:03,07/07/2026 23:59
 56f8aea9-4d14-4dcf-85e7-183678cc9738,machining.zone,available,54,68,9,,,
-7fc81036-bf9a-4d55-aebb-56dd07aebab9,machining.ai,resell,54,68,9,"NameCheap, Inc.",26/09/2020 02:11,26/09/2026 02:11
-1fa2d312-947c-4212-a3c5-dc9cd77d8ec8,machining.at,available,54,68,9,,,
-7a60032b-a749-41c6-a224-490dc351192d,machining.co,resell,54,68,9,InternetX GmbH,24/09/2013 00:03,23/09/2025 23:59
 d47aecc7-ffff-46b5-9561-87c3a7235d37,fabrication.app,available,58,72,11,,,
 8e451c8f-330d-4a9b-a118-00d6030caf63,fabrication.at,available,58,72,11,,,
 75538864-2cd0-4675-86c9-178101c0a71c,fabrication.co,expiring,58,72,11,Dynadot Inc,20/07/2010 19:18,19/07/2025 23:59
@@ -131,13 +131,13 @@ b232ff1f-2835-41ce-8e7a-d45a39a9d30f,welding.store,available,58,84,7,,,
 e991b611-97bf-4b2f-9158-86ab2c62f926,welding.tech,available,58,84,7,,,
 7ff81f2d-1708-4149-bbbe-b6344c13e1c1,welding.xyz,resell,58,84,7,"Go Daddy, LLC",02/06/2014 17:36,02/06/2026 23:59
 76c50c76-9990-4be5-bb31-820204f75468,production.at,sold,70,96,10,World4You Internet Services GmbH ( https://nic.at/registrar/61 ),,
-9648f519-0854-4ac3-a60b-648d666f7f6c,production.cloud,available,70,96,10,,,
-bc741202-d5da-4ed9-8a5d-5fd333414eda,production.online,available,70,96,10,,,
+9648f519-0854-4ac3-a60b-648d666f7f6c,production.cloud,premium,70,96,10,,,
+bc741202-d5da-4ed9-8a5d-5fd333414eda,production.online,premium,70,96,10,,,
 e8223574-f6ca-4aff-b3c3-4de245f65029,production.org,resell,70,96,10,Dynadot Inc,02/10/2001 18:03,02/10/2026 18:03
-ac05986d-0fe1-4d5b-b5cf-789029482be1,production.site,available,70,96,10,,,
-3118a1bb-7a46-4e40-873f-ede1f27db978,production.space,available,70,96,10,,,
-8eb2eda6-1550-4fb8-baa8-304cd75e2c97,production.store,available,70,96,10,,,
-24470564-017e-474d-a43c-8a363bba4692,production.tech,available,70,96,10,,,
+ac05986d-0fe1-4d5b-b5cf-789029482be1,production.site,premium,70,96,10,,,
+3118a1bb-7a46-4e40-873f-ede1f27db978,production.space,premium,70,96,10,,,
+8eb2eda6-1550-4fb8-baa8-304cd75e2c97,production.store,premium,70,96,10,,,
+24470564-017e-474d-a43c-8a363bba4692,production.tech,premium,70,96,10,,,
 9b2a9a53-0608-40a1-8d8a-6147ca3ac2e2,investmentcasting.ai,available,60,76,18,,,
 6aadab80-ac32-4430-b0b9-6d2bbaad8017,investmentcasting.app,available,60,76,18,,,
 cad16b18-884c-44da-a213-10b3b93bd4c6,investmentcasting.cloud,available,60,76,18,,,
@@ -173,14 +173,14 @@ e2ab896d-88f6-4da2-8143-3de3cb039acd,forging.store,available,66,76,7,,,
 6191cf17-5f99-42c3-8dea-c902ce6ee11a,forging.zone,available,66,76,7,,,
 95a0c4ea-28eb-4364-9af9-7236be12fb28,inspection.at,available,64,76,10,,,
 380626ff-f393-42f5-9744-fd75028ff314,inspection.co,expiring,64,76,10,"GoDaddy.com, LLC",21/07/2010 21:13,20/07/2025 23:59
-4c742efc-f354-4b13-abbc-beefd44433ce,inspection.dev,available,64,76,10,,,
+4c742efc-f354-4b13-abbc-beefd44433ce,inspection.dev,premium,64,76,10,,,
 83474695-7213-4375-a197-ec501c1f6664,inspection.gg,available,64,76,10,,,
 b0c3bbd3-713b-4725-bc8d-b8e0806d80df,inspection.it,resell,64,76,10,,28/10/2013 09:00,27/11/2025 00:00
 18902f17-2846-49b3-bf40-d3af01526c37,inspection.me,resell,64,76,10,"Name.com, Inc.",04/10/2011 03:06,04/10/2025 03:06
-77c95620-23f2-4b1f-9483-5bc4788f6dbb,inspection.site,available,64,76,10,,,
+77c95620-23f2-4b1f-9483-5bc4788f6dbb,inspection.site,premium,64,76,10,,,
 f4018047-ad48-4d0a-8529-af138f3fff14,inspection.so,available,64,76,10,,,
-2cc18619-8060-4b3d-bab2-2218613c0608,inspection.store,available,64,76,10,,,
-a82ca2f9-eb6e-4b94-a504-27767a437013,inspection.tech,available,64,76,10,,,
+2cc18619-8060-4b3d-bab2-2218613c0608,inspection.store,premium,64,76,10,,,
+a82ca2f9-eb6e-4b94-a504-27767a437013,inspection.tech,premium,64,76,10,,,
 6aa4e8dc-47e0-4b0c-b5f0-d72940579c5c,inspection.zone,available,64,76,10,,,
 310d1355-0ff5-4f68-ac1e-8ca029995d91,subcontracting.ai,available,,28,14,,,
 c230f05f-6bdf-4139-80bd-e84e0375f0f3,subcontracting.app,available,,28,14,,,
@@ -578,17 +578,17 @@ b6122fe3-111d-4f69-ad21-afe707f1790a,brazing.zone,available,56,24,7,,,
 f01fc940-da96-47c8-89b9-e63c473556c2,painting.app,expiring,62,80,8,Squarespace Domains II LLC.,24/07/2023 17:46,24/07/2025 17:46
 d65ddcb7-28a1-4cc9-93fc-fb741b8c1615,painting.at,sold,62,80,8,registrant:     <data not disclosed>,,
 b1d73c1d-fbe6-4ed6-bf45-38c1293b6622,painting.cloud,available,62,80,8,,,
-b4c45f50-8ef3-4da0-906c-6ef81e0c0a79,painting.dev,available,62,80,8,,,
+b4c45f50-8ef3-4da0-906c-6ef81e0c0a79,painting.dev,premium,62,80,8,,,
 ad59ad47-4411-4add-ade8-5230dff7148c,painting.gg,available,62,80,8,,,
 1a5a8657-4167-4864-a3fd-73642ad8ac1b,painting.io,resell,62,80,8,Dynadot Inc,13/02/2015 20:06,13/02/2026 20:06
 fb01def1-73ff-4550-ac54-11396a2d2e08,painting.me,expiring,62,80,8,Epik LLC,09/07/2008 17:07,09/07/2025 17:07
 593e1ee8-1526-4c25-84bc-7907030367ab,painting.ninja,available,62,80,8,,,
-6ce095dc-01de-4b96-8754-3b2abeb1a929,painting.online,available,62,80,8,,,
-d746dabd-7208-41dd-8ace-3054e95e898a,painting.site,available,62,80,8,,,
+6ce095dc-01de-4b96-8754-3b2abeb1a929,painting.online,premium,62,80,8,,,
+d746dabd-7208-41dd-8ace-3054e95e898a,painting.site,premium,62,80,8,,,
 cd8c3679-ca7e-4c2f-b61d-d86cb69c7bd5,painting.so,available,62,80,8,,,
 8bfaf68d-aad6-4290-978d-169e1d6f0b63,painting.space,available,62,80,8,,,
-c604a355-7fa0-42a2-85ff-9c9435f7a6b3,painting.store,available,62,80,8,,,
-6fa8279b-1b3d-45e4-a306-a03d46fdff84,painting.tech,available,62,80,8,,,
+c604a355-7fa0-42a2-85ff-9c9435f7a6b3,painting.store,premium,62,80,8,,,
+6fa8279b-1b3d-45e4-a306-a03d46fdff84,painting.tech,premium,62,80,8,,,
 67dea2e5-e241-4a50-b890-6c7a2e9ca06a,polishing.app,available,82,76,9,,,
 1f5adfa4-c058-4aec-a990-c934cf78bc45,polishing.at,available,82,76,9,,,
 8287b986-bcc1-45c0-b97a-1d7d92e335a6,polishing.cloud,available,82,76,9,,,
@@ -607,12 +607,12 @@ bc174e8c-d800-4b28-ae5e-41f9508f5596,polishing.so,available,82,76,9,,,
 4436fcb0-782a-49d8-8062-a296f73984f3,polishing.zone,available,82,76,9,,,
 5972b1b3-cc5c-47df-be0f-112c0cbaf71d,product.at,sold,84,92,7,NETIM ( https://nic.at/registrar/586 ),,
 c81faf96-ca9f-4fe8-b8d2-e75f5d846f50,product.cloud,resell,84,92,7,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:20
-83d57d9a-64e2-47ad-be56-c0f07e9616ee,product.online,available,84,92,7,,,
-b76bd47b-8be9-4470-9ebf-2332922c91c5,product.site,available,84,92,7,,,
+83d57d9a-64e2-47ad-be56-c0f07e9616ee,product.online,premium,84,92,7,,,
+b76bd47b-8be9-4470-9ebf-2332922c91c5,product.site,premium,84,92,7,,,
 5bf2a6ce-b9bc-4f2c-905a-690c337680a8,product.so,resell,84,92,7,NameCheap,30/06/2020 21:50,30/06/2026 21:50
 c615975d-e4df-4535-9744-3dda7f7f50e6,product.space,expiring,84,92,7,"Go Daddy, LLC",01/08/2018 22:12,01/08/2025 23:59
-d52fd0f9-407d-4784-8c23-4985e11c5441,product.store,available,84,92,7,,,
-b689fd32-dc60-46db-8f94-a10cc0956cc8,product.tech,available,84,92,7,,,
+d52fd0f9-407d-4784-8c23-4985e11c5441,product.store,premium,84,92,7,,,
+b689fd32-dc60-46db-8f94-a10cc0956cc8,product.tech,premium,84,92,7,,,
 85b53c64-cc76-40f6-8bdd-69e2c5df2317,robotics.expert,available,60,84,8,,,
 c46448f6-b718-47c7-b834-5b3eed859c6c,robotics.gg,resell,60,84,8,Dynadot Inc. (https://www.dynadot.com),,
 cf995466-b781-449a-82f2-206c26e273b9,robotics.me,expiring,60,84,8,1API GmbH,17/07/2008 15:18,17/07/2025 15:18
