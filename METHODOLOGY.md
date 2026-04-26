@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository represents the exact public search at `https://unique.domains/domains/sector/manufacturing`.
+This repository represents the exact public search at `https://unique.domains/domains/sector/Manufacturing`.
 
 The CSV and JSON files are the public extract published for that search. Unique Domains can contain more domains, more filters, and more workflow state than the files in this repository.
 

@@ -4,9 +4,9 @@ title: "Manufacturing One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-13"
-date-released: "2026-04-13"
-url: "https://unique.domains/domains/sector/manufacturing"
+version: "2026-04-26"
+date-released: "2026-04-26"
+url: "https://unique.domains/domains/sector/Manufacturing"
 repository-code: "https://github.com/UniqueDomains/manufacturing-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of manufacturing one-word domains from Unique Domains."
