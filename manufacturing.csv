@@ -5,6 +5,7 @@ b0ba77fc-dbcf-45f8-a3b9-d57ddf904641,manufacturing.gg,available,82.98,,70,80,13,
 303dc1bd-7a10-43ab-829f-5d8d535dc91b,manufacturing.io,resell,,,70,80,13,Divido Ltd,04/07/2012 00:48,30/04/2027 12:00
 00006beb-fa6e-4794-8178-14dcee01ed58,manufacturing.me,resell,,,70,80,13,Dynadot Inc,06/10/2010 17:51,06/10/2025 17:51
 2703e1dd-f015-412d-b58a-834d2987ea3f,manufacturing.ninja,resell,,,70,80,13,Dynadot Inc,09/06/2025 17:00,09/06/2026 17:00
+caaf4bfa-9102-4ff3-8cad-9ab00e4864c4,manufacturing.so,available,68.98,,70,80,13,namecheap,,
 361fb823-4591-43a2-bb7a-15b315cc83ba,manufacturing.store,premium,156.25,625,70,80,13,name.com,,
 246bcac4-d906-4ca1-9cc5-29cf3720ef60,manufacturing.tech,premium,812.5,3250,70,80,13,namecheap,,
 5d92d21d-c501-4b13-8fc7-275dfb2a99cf,manufacturing.xyz,premium,1300,1300,70,80,13,namecheap,,
@@ -389,8 +390,6 @@ aa683a3b-b339-4ea5-962a-d0944d8c8176,production.property,premium,,,70,23,10,,,
 457a4c5b-1c6d-479d-befb-fa474dee1d41,production.rent,available,81.98,,70,23,10,namecheap,,
 4f33326f-013f-442e-a75a-78b92d284ef6,production.rocks,available,29.98,,70,23,10,namecheap,,
 a72593a5-4a74-457c-86e4-9a265818a329,production.studio,premium,,,70,23,10,,,
-e3428271-e86e-48ed-afb4-c5b22d9955ed,assembly.at,premium,,,54,92,8,,,
-b3c6f35b-c885-4727-b090-dc1f1baeb5b2,assembly.online,premium,781.25,3125,54,92,8,name.com,,
 1953291a-dd0b-41d9-8659-0b80494b6f18,factory.cloud,premium,,,82,92,7,,,
 6e3646b6-31a2-43e7-85ae-29ca0641b4e8,factory.gg,resell,,,82,92,7,1API (http://www.1api.net),,
 6635c6f5-29c6-496d-b866-43a645fd8bd9,factory.site,premium,,,82,92,7,,,
@@ -399,14 +398,8 @@ c4d5abe8-9270-42df-a8fc-be1b24f55328,factory.store,premium,,,82,92,7,,,
 c026c338-8bf6-40ae-a112-01d78e57b9dd,factory.tech,premium,,,82,92,7,,,
 470f0d48-3358-4526-8365-174df2e30e9d,factory.us,resell,,,82,92,7,"GoDaddy.com, LLC",24/04/2002 14:29,23/04/2026 23:59
 f8b75122-4049-4ccf-9b05-c0e804fee27d,factory.xyz,resell,,,82,92,7,Dynadot LLC,11/11/2019 01:09,11/11/2030 23:59
-e7714cc4-a03a-4efa-9120-57e04559ffbd,manufacture.at,premium,,,78,84,11,,,
-9cf21efb-c70d-4632-81de-82b436270205,manufacture.expert,premium,,,78,84,11,,,
-e0fde802-7ff7-43b4-bd82-56339bb3b567,manufacture.gg,premium,,,78,84,11,,,
-492f10ba-4db8-452d-9a9c-889448b5ce99,manufacture.it,resell,,,78,84,11,,20/01/2000 00:00,20/01/2026 00:00
-77228a51-264b-477a-91d5-deb17a68ec22,manufacture.ninja,premium,,,78,84,11,,,
-109c417a-0d48-412a-8047-9cefe9b524cf,manufacture.online,resell,,,78,84,11,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",01/09/2015 07:29,01/09/2025 23:59
-5c3ee5a7-bddc-4367-a293-acfb652415ea,manufacture.xyz,resell,,,78,84,11,"Go Daddy, LLC",02/06/2014 17:27,02/06/2026 23:59
-6beeaf27-ffff-4829-b676-1aff95042758,manufacture.zone,resell,,,78,84,11,"GoDaddy.com, LLC",25/03/2016 00:33,25/03/2026 00:33
+e3428271-e86e-48ed-afb4-c5b22d9955ed,assembly.at,premium,,,54,92,8,,,
+b3c6f35b-c885-4727-b090-dc1f1baeb5b2,assembly.online,premium,781.25,3125,54,92,8,name.com,,
 3e50fb36-41cb-4e98-bf5f-651d8ac657dd,industry.beer,resell,,,72,59,8,"Spaceship, Inc.",11/08/2025 19:47,11/08/2026 19:47
 5cec903b-f068-4a70-8f40-90224beb4f4f,industry.broker,premium,6250,,72,59,8,name.com,,
 bfd0bc66-d66a-4e9a-8495-9be26a2a68ad,industry.channel,premium,623.75,,72,59,8,name.com,,
@@ -577,6 +570,15 @@ f8ccbce0-f242-404e-abcc-d339ae27d387,industry.voting,premium,,,68,59,8,,,
 05f90b4f-605b-4a3d-ac65-c8a4f5f1784d,industry.you,premium,,,68,59,8,,,
 edf58202-0077-4308-ac3a-38a8652724b5,industry.zip,premium,,,68,59,8,,,
 6f8a21dc-e858-4cc1-8b61-d0aeead293e6,industry.zone,resell,,,68,59,8,"NameCheap, Inc.",27/06/2025 15:15,27/06/2026 15:15
+e7714cc4-a03a-4efa-9120-57e04559ffbd,manufacture.at,premium,,,78,84,11,,,
+9cf21efb-c70d-4632-81de-82b436270205,manufacture.expert,premium,,,78,84,11,,,
+e0fde802-7ff7-43b4-bd82-56339bb3b567,manufacture.gg,premium,,,78,84,11,,,
+492f10ba-4db8-452d-9a9c-889448b5ce99,manufacture.it,resell,,,78,84,11,,20/01/2000 00:00,20/01/2026 00:00
+77228a51-264b-477a-91d5-deb17a68ec22,manufacture.ninja,premium,,,78,84,11,,,
+109c417a-0d48-412a-8047-9cefe9b524cf,manufacture.online,resell,,,78,84,11,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",01/09/2015 07:29,01/09/2025 23:59
+5b20c32b-f717-4296-a1f9-f44748c89fea,manufacture.so,premium,,,78,84,11,,,
+5c3ee5a7-bddc-4367-a293-acfb652415ea,manufacture.xyz,resell,,,78,84,11,"Go Daddy, LLC",02/06/2014 17:27,02/06/2026 23:59
+6beeaf27-ffff-4829-b676-1aff95042758,manufacture.zone,resell,,,78,84,11,"GoDaddy.com, LLC",25/03/2016 00:33,25/03/2026 00:33
 d47aecc7-ffff-46b5-9561-87c3a7235d37,fabrication.app,premium,123.75,123.75,58,72,11,name.com,,
 8e451c8f-330d-4a9b-a118-00d6030caf63,fabrication.at,premium,,,58,72,11,,,
 3a0052c2-1e1b-4138-a802-526ac8dd9d4a,fabrication.dev,premium,61.25,61.25,58,72,11,name.com,,
@@ -586,6 +588,7 @@ e0a4e826-7d01-4ce1-b55c-4963d5f9d5a6,fabrication.gg,available,82.98,,58,72,11,na
 064119e7-760a-424e-a564-0449c1056f5b,fabrication.it,resell,,,58,72,11,,21/06/2000 00:00,04/09/2025 00:00
 2cee305b-4b10-45cd-a8f4-2707a41e9065,fabrication.online,premium,78.12,312.5,58,72,11,name.com,,
 40e9be55-066e-4ffc-8c14-4483829b5be7,fabrication.site,premium,156.25,625,58,72,11,name.com,,
+7c981166-2f02-4402-bbe9-8b4953f63d13,fabrication.so,available,68.98,,58,72,11,namecheap,,
 0238efa5-2768-4e6c-8758-b8ac1540f245,fabrication.space,premium,32.5,130,58,72,11,namecheap,,
 55fff9ea-44dc-4b0e-9d92-5823ad4147be,fabrication.store,premium,156.25,625,58,72,11,name.com,,
 d1933551-df92-425a-bde9-ad30f40d4a28,fabrication.tech,premium,156.25,625,58,72,11,name.com,,
@@ -996,6 +999,3 @@ ff981202-d838-4532-ae77-db1ce2b7da7e,machinery.vin,premium,,,66,16,9,,,
 898f9f04-adde-44fe-8dee-ce67d9ae2d85,machinery.vision,premium,,,66,16,9,,,
 6f1e222c-b6b9-46ad-8fe8-99f9e74e16d3,machinery.vodka,premium,,,66,16,9,,,
 f3897908-b701-4126-90f4-281ab72a6d33,machinery.vote,premium,,,66,16,9,,,
-b78479f6-0bea-4ffa-b730-973c6179100a,machinery.voting,premium,,,66,16,9,,,
-0641a36b-1fce-4933-b4cd-efdd4eb627d3,machinery.voto,premium,,,66,16,9,,,
-525060d7-437c-4e7d-81ab-ac85aa5bc0e2,machinery.voyage,premium,,,66,16,9,,,
