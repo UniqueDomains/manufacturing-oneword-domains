@@ -79,10 +79,10 @@ print(df.head())
 | fabrication.expert  | available | $82.48    | —             | 58             | 72     | 11     | namecheap                  |
 | factory.us          | resell    | —         | —             | 82             | 92     | 7      | GoDaddy.com, LLC           |
 | manufacturing.dev   | premium   | $198.75   | $198.75       | 70             | 80     | 13     | name.com                   |
-| industry.new        | available | $549.99   | —             | 72             | 59     | 8      | name.com                   |
+| industry.new        | available | $549.99   | —             | 72             | 58     | 8      | name.com                   |
 | factory.gg          | resell    | —         | —             | 82             | 92     | 7      | 1API (http://www.1api.net) |
 | fabrication.tech    | premium   | $156.25   | $625          | 58             | 72     | 11     | name.com                   |
-| industry.moi        | available | $39.99    | —             | 72             | 59     | 8      | name.com                   |
+| industry.moi        | available | $39.99    | —             | 72             | 58     | 8      | name.com                   |
 | manufacture.zone    | resell    | —         | —             | 78             | 84     | 11     | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
