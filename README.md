@@ -1,10 +1,10 @@
-# Manufacturing Keyword Domains (19,166)
+# Manufacturing Keyword Domains (19,175)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C166%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C175%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are tied to the keyword “manufacturing” and span 19,162 names across 505 TLDs. Updated daily. The median ask is $1,158, so price discipline matters when comparing extension quality, relevance, and renewal fit.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,166 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,175 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,166 domains · **Median ask:** $1,157.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 19,175 domains · **Median ask:** $1,157.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/sector/Manufacturing`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
 | manufacturing.so    | available | $68.98    | —             | 70             | 80     | 13     | namecheap                  |
-| production.org      | resell    | $113,850  | $21.99        | 70             | 26     | 10     | Dynadot Inc                |
+| production.org      | resell    | $113,850  | $21.99        | 70             | 25     | 10     | Dynadot Inc                |
 | assembly.online     | premium   | $781.25   | $3,125        | 54             | 92     | 8      | name.com                   |
 | manufacturing.gg    | available | $82.98    | —             | 70             | 80     | 13     | namecheap                  |
-| production.me       | resell    | $861.35   | $27.99        | 70             | 26     | 10     | GoDaddy.com, LLC           |
+| production.me       | resell    | $861.35   | $27.99        | 70             | 25     | 10     | GoDaddy.com, LLC           |
 | manufacturing.xyz   | premium   | $1,300    | $1,300        | 70             | 80     | 13     | namecheap                  |
 | fabrication.so      | available | $68.98    | —             | 58             | 72     | 11     | namecheap                  |
 | production.info     | resell    | $2,143.60 | $35.99        | 70             | 25     | 10     | Sea Wasp, LLC              |
 | manufacturing.tech  | premium   | $812.50   | $3,250        | 70             | 80     | 13     | namecheap                  |
 | fabrication.gg      | available | $82.98    | —             | 58             | 72     | 11     | namecheap                  |
-| factory.xyz         | resell    | —         | —             | 82             | 92     | 7      | Dynadot LLC                |
+| production.energy   | resell    | $155.98   | —             | 70             | 25     | 10     | Spaceship, Inc.            |
 | manufacturing.store | premium   | $156.25   | $625          | 70             | 80     | 13     | name.com                   |
 | fabrication.expert  | available | $82.48    | —             | 58             | 72     | 11     | namecheap                  |
-| factory.us          | resell    | —         | —             | 82             | 92     | 7      | GoDaddy.com, LLC           |
+| factory.xyz         | resell    | —         | —             | 82             | 92     | 7      | Dynadot LLC                |
 | manufacturing.dev   | premium   | $198.75   | $198.75       | 70             | 80     | 13     | name.com                   |
 | industry.new        | available | $549.99   | —             | 72             | 58     | 8      | name.com                   |
-| factory.gg          | resell    | —         | —             | 82             | 92     | 7      | 1API (http://www.1api.net) |
+| factory.us          | resell    | —         | —             | 82             | 92     | 7      | GoDaddy.com, LLC           |
 | fabrication.tech    | premium   | $156.25   | $625          | 58             | 72     | 11     | name.com                   |
 | industry.moi        | available | $39.99    | —             | 72             | 58     | 8      | name.com                   |
-| manufacture.zone    | resell    | —         | —             | 78             | 84     | 11     | GoDaddy.com, LLC           |
+| factory.gg          | resell    | —         | —             | 82             | 92     | 7      | 1API (http://www.1api.net) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,166 live domains                        |
+| 1,000-row public sample | 19,175 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Manufacturing Keyword Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Manufacturing Keyword Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
