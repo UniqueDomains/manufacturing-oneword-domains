@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar            |
-| --------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| just.equipment  | available | $19.99        | —             | high           | medium | 4      | name.com             |
-| metal.co        | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC        |
-| raw.fast        | premium   | $625          | $625          | low            | low    | 3      | name.com             |
-| mass.equipment  | available | $19.99        | $41.99        | high           | low    | 4      | name.com             |
-| material.com    | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC |
-| belt.tech       | premium   | $781.25       | —             | high           | low    | 4      | name.com             |
-| mass.supplies   | available | $24.99        | $24.99        | high           | low    | 4      | namesilo             |
-| raw.ninja       | resell    | —             | —             | medium         | low    | 3      | Dynadot Inc          |
-| just.tech       | premium   | $781.25       | —             | high           | medium | 4      | name.com             |
-| mass.supply     | available | $30.99        | $33.99        | high           | low    | 4      | name.com             |
-| mill.social     | resell    | —             | —             | medium         | low    | 4      | Spaceship, Inc.      |
-| line.parts      | premium   | $118.80       | $118.80       | high           | medium | 4      | namesilo             |
-| mill.equipment  | available | $19.99        | —             | high           | low    | 4      | name.com             |
-| unit.company    | resell    | —             | —             | high           | low    | 4      | Sav.com, LLC - 11    |
-| line.supply     | premium   | $78.54        | $78.54        | high           | medium | 4      | namesilo             |
-| mill.parts      | available | $15.99        | —             | medium         | low    | 4      | name.com             |
-| unit.technology | resell    | —             | —             | high           | low    | 4      | Spaceship, Inc.      |
-| line.tech       | premium   | $1,562.50     | —             | high           | medium | 4      | name.com             |
-| mill.supplies   | available | $24.99        | $24.99        | high           | low    | 4      | namesilo             |
-| chain.supplies  | resell    | —             | —             | medium         | low    | 5      | Porkbun LLC          |
+| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| belt.equipment    | available | $19.99        | —             | high           | low    | 4      | name.com                                                |
+| metal.co          | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC                                           |
+| out.tech          | premium   | $1,562.50     | $6,250        | high           | low    | 3      | name.com                                                |
+| belt.parts        | available | $15.99        | —             | high           | low    | 4      | name.com                                                |
+| trade.online      | resell    | $718,750      | $46.99        | high           | medium | 5      | Namify Domains Inc                                      |
+| belt.dev          | premium   | $198.75       | —             | high           | low    | 4      | name.com                                                |
+| belt.supplies     | available | $24.99        | $24.99        | high           | low    | 4      | namesilo                                                |
+| trade.pink        | resell    | $31.48        | —             | high           | medium | 5      | GoDaddy.com, LLC                                        |
+| belt.tech         | premium   | $781.25       | —             | high           | low    | 4      | name.com                                                |
+| firm.supplies     | available | $24.99        | $24.99        | high           | low    | 4      | namesilo                                                |
+| material.com      | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC                                    |
+| just.tech         | premium   | $781.25       | —             | high           | medium | 4      | name.com                                                |
+| firm.supply       | available | $25.99        | $25.99        | high           | low    | 4      | namesilo                                                |
+| commercial.io     | resell    | $56,925       | $73.99        | high           | low    | 10     | Dynadot Inc                                             |
+| line.parts        | premium   | $118.80       | $118.80       | high           | medium | 4      | namesilo                                                |
+| just.equipment    | available | $19.99        | —             | high           | medium | 4      | name.com                                                |
+| mass.cloud        | resell    | —             | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.           |
+| line.supply       | premium   | $78.54        | $78.54        | high           | medium | 4      | namesilo                                                |
+| mass.construction | available | $15.99        | —             | high           | low    | 4      | name.com                                                |
+| mass.ltd          | resell    | —             | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
