@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (177,488)
+# One-Word Manufacturing Domain Names (177,961)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-177%2C488%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-177%2C961%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **177,488 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **177,961 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 177,488 domains · **Median ask:** $520.17 · **High-demand under $2,500:** 874
+**Public extract:** 1,000 rows · **Live catalog:** 177,961 domains · **Median ask:** $518.73 · **High-demand under $2,500:** 874
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| raw.new          | available | $488.98    | $601.98       | medium         | low    | 3      | namecheap        |
-| metal.co         | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC    |
-| firm.shop        | premium   | $625       | —             | high           | low    | 4      | name.com         |
-| belt.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap        |
-| grow.limited     | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| unit.shop        | premium   | $625       | —             | high           | low    | 4      | name.com         |
-| trim.equipment   | available | $19.99     | $41.99        | medium         | low    | 4      | name.com         |
-| just.works       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
-| goods.eco        | premium   | $9,375     | —             | high           | low    | 5      | name.com         |
-| unit.lat         | available | $1.99      | —             | high           | low    | 4      | name.com         |
-| mill.finance     | resell    | —          | —             | medium         | low    | 4      | Dynadot Inc      |
-| goods.markets    | premium   | $500       | —             | high           | low    | 5      | name.com         |
-| bases.parts      | available | $15.99     | —             | medium         | low    | 5      | name.com         |
-| soil.solutions   | resell    | —          | —             | medium         | low    | 4      | Porkbun LLC      |
-| metal.equipment  | premium   | $128.70    | $128.70       | high           | low    | 5      | namecheap        |
-| goods.barcelona  | available | $38.98     | —             | high           | low    | 5      | namecheap        |
-| tree.baby        | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.  |
-| metal.industries | premium   | $260       | $260          | high           | low    | 5      | namecheap        |
-| goods.broker     | available | $19.99     | —             | high           | low    | 5      | name.com         |
-| tree.services    | resell    | —          | —             | high           | low    | 4      | Porkbun LLC      |
+| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| belt.equipment    | available | $19.99        | —             | high           | low    | 4      | name.com                                                |
+| metal.co          | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC                                           |
+| out.tech          | premium   | $1,562.50     | $6,250        | high           | low    | 3      | name.com                                                |
+| belt.parts        | available | $15.99        | —             | high           | low    | 4      | name.com                                                |
+| trade.online      | resell    | $718,750      | $46.99        | high           | medium | 5      | Namify Domains Inc                                      |
+| belt.dev          | premium   | $198.75       | —             | high           | low    | 4      | name.com                                                |
+| belt.supplies     | available | $24.99        | $24.99        | high           | low    | 4      | namesilo                                                |
+| trade.pink        | resell    | $31.48        | —             | high           | medium | 5      | GoDaddy.com, LLC                                        |
+| belt.tech         | premium   | $781.25       | —             | high           | low    | 4      | name.com                                                |
+| firm.supplies     | available | $24.99        | $24.99        | high           | low    | 4      | namesilo                                                |
+| material.com      | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC                                    |
+| just.tech         | premium   | $781.25       | —             | high           | medium | 4      | name.com                                                |
+| firm.supply       | available | $25.99        | $25.99        | high           | low    | 4      | namesilo                                                |
+| commercial.io     | resell    | $56,925       | $73.99        | high           | low    | 10     | Dynadot Inc                                             |
+| line.parts        | premium   | $118.80       | $118.80       | high           | medium | 4      | namesilo                                                |
+| just.equipment    | available | $19.99        | —             | high           | medium | 4      | name.com                                                |
+| mass.cloud        | resell    | —             | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.           |
+| line.supply       | premium   | $78.54        | $78.54        | high           | medium | 4      | namesilo                                                |
+| mass.construction | available | $15.99        | —             | high           | low    | 4      | name.com                                                |
+| mass.ltd          | resell    | —             | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 177,488 live domains                       |
+| 1,000-row public sample | 177,961 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 874 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
