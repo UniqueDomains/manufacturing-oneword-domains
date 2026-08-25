@@ -23,11 +23,9 @@ e2fdd894-b84e-4d34-a2b7-385cd6a40286,business.tech,resell,,,high,medium,8,Namify
 fbe04d6f-b426-4584-b315-14e32e2ec281,trade.systems,available,,,high,medium,5,,,
 e9aea887-3bc5-4604-b115-b875798a7b09,element.supplies,available,24.99,24.99,high,low,7,namesilo,,
 5df73497-d01b-4ff3-98ea-b1c1f13b1b53,control.supplies,resell,,,high,low,7,"Sav.com, LLC",22/11/2016 16:19,22/11/2026 16:19
-9c229edc-054d-4329-8455-88e5822e887b,engineer.supplies,premium,82.5,,high,low,8,name.com,,
 171cd653-2c00-4e87-9476-fd708a76c958,business.equipment,resell,,,high,medium,8,"Spaceship, Inc.",12/02/2014 16:00,12/02/2027 16:00
 2374179f-c112-40c6-8da8-749abea05213,metal.industries,premium,260,260,high,low,5,namecheap,,
 e028c36c-6e96-45ed-a49d-4cb7e4dcaa68,quality.tech,resell,,,high,low,7,"Sav.com, LLC- 4",04/11/2023 06:56,04/11/2026 23:59
-50298676-978e-42fa-a9e3-40b356d9278a,engineer.supply,premium,123.75,,high,low,8,name.com,,
 7589d832-b785-43a5-abea-6e676eb64975,control.supply,resell,,,high,low,7,"Sav.com, LLC",22/11/2016 16:19,22/11/2026 16:19
 237bafcc-bcd8-46a2-8e68-5f68b14162c1,business.parts,premium,85.8,85.8,high,medium,8,namecheap,,
 af209415-455f-4ce9-90a5-a1b6b5cc1782,process.supplies,available,24.99,24.99,high,low,7,namesilo,,
@@ -65,22 +63,26 @@ b689fd32-dc60-46db-8f94-a10cc0956cc8,product.tech,premium,781.25,3125,high,high,
 8e6de1e7-706e-404e-9de6-86ac100e28ed,component.tech,resell,,,high,low,9,"DNSPod, Inc.",21/01/2019 13:10,21/01/2027 23:59
 b1b93944-36c7-406a-898c-8a977f5527cb,technology.supply,premium,128.7,128.7,high,low,10,namecheap,,
 33e77e4e-3aff-4280-82fa-69a773636951,control.industries,premium,78.54,78.54,high,low,7,namesilo,,
-b36096d2-4ddc-49df-85b3-a1b1e10ee0bd,engineer.industries,premium,123.75,,high,low,8,name.com,,
+675cc058-2be7-457a-910f-614f2b1e2f31,machines.limited,available,14.99,,medium,low,8,name.com,,
 2d4c2e95-1968-4329-bfc5-57bbf24c9d5e,inventory.tech,premium,312.5,1250,high,high,9,name.com,,
 c026c338-8bf6-40ae-a112-01d78e57b9dd,factory.tech,available,,,high,high,7,,,
 dae9a76c-3226-4323-8f4e-9158388b7f2e,creation.tech,premium,781.25,,high,low,8,name.com,,
 4c485e0f-307d-4db6-bb1e-50813d663172,machine.parts,premium,250,,high,low,7,name.com,,
+87b603f3-8ef8-42b5-be3f-33228d656a6f,management.services,resell,,,medium,low,10,"GoDaddy.com, LLC",24/06/2015 16:00,24/06/2027 16:00
 d9d7ef9c-4915-4334-b6f3-14aebfd29c5c,economy.systems,available,21.99,,high,low,7,name.com,,
 2100cfe5-adba-499f-be39-ac2e1d02154f,mechanical.supplies,available,24.99,24.99,high,low,10,namesilo,,
 b688a579-b28c-4ca6-9ffd-b9d085303ad2,technology.equipment,resell,,,high,low,10,"Sav.com, LLC",08/09/2020 10:21,08/09/2026 10:21
 999c3b29-de5f-4f49-8967-9ab6b586ba81,unit.equipment,available,19.99,,high,low,4,name.com,,
 99c90788-9ad0-4f34-a1a4-e56ed3b860fc,process.industries,premium,118.8,118.8,high,low,7,namesilo,,
 a30d5ab6-62af-47f1-89ba-324f91b56e31,design.services,resell,,,high,medium,6,Porkbun LLC,06/09/2018 04:05,06/09/2026 04:05
+abb16c51-4463-4130-9a9a-d541ab3a8a19,factories.gmbh,available,45.99,45.99,medium,low,9,namesilo,,
 bc32524c-f73d-4a89-9012-39b1c4cf8e36,produce.tech,resell,,,high,low,7,Xin Net Technology Corporation,16/09/2015 04:48,16/09/2026 23:59
 5c333455-170e-4dcd-b858-25ceb5aa9e8d,mill.tech,premium,781.25,,high,low,4,name.com,,
 a5513e45-a533-48dc-9a99-29cb0d963eff,mechanical.supply,available,25.99,25.99,high,low,10,namesilo,,
 f955b5aa-da29-4791-a2e5-e8d6058964c7,unit.parts,available,15.99,,high,low,4,name.com,,
 f95d9a3f-e6c2-41fb-b3c0-f00f3b04eca2,technology.parts,premium,128.7,128.7,high,low,10,namecheap,,
+22b739be-722a-4db9-bea0-a56fcb35da88,quality.solutions,resell,,,high,low,7,Porkbun LLC,08/06/2016 08:30,08/06/2026 08:30
+1738b461-2500-4fae-87b8-d1b10a84c361,machines.parts,premium,123.75,,medium,low,8,name.com,,
 5f5eedf6-c038-4850-b893-27270b6c831c,design.company,resell,,,high,medium,6,"Name.com, Inc.",28/08/2017 18:05,28/08/2032 18:05
 9cb6217f-8889-4c5e-834c-40da8fa00fb5,creation.supplies,premium,78.54,78.54,high,low,8,namesilo,,
 02c68fc2-3c9b-4c6d-a3bb-78c53664ef9b,quality.industries,available,17.49,,high,low,7,name.com,,
@@ -89,8 +91,8 @@ f95d9a3f-e6c2-41fb-b3c0-f00f3b04eca2,technology.parts,premium,128.7,128.7,high,l
 75bff168-340c-481f-8d92-cc3688e0bfc4,creation.supply,available,25.99,25.99,high,low,8,namesilo,,
 2663f6c4-0086-4520-8ba7-69aafe2b67bd,trade.build,premium,1950,1950,high,medium,5,namecheap,,
 0e96661a-eeac-45ef-a172-5267b5e6812b,material.business,resell,,,high,low,8,"Sav.com, LLC - 16",05/01/2026 15:15,05/01/2027 15:15
+eae72082-6f8c-4f3f-bbb3-5d4f9cfa7d38,designing.supplies,available,24.99,24.99,medium,low,9,namesilo,,
 210ec38e-716f-4989-af9b-8c793441a1d4,metal.business,premium,42.9,42.9,high,low,5,namecheap,,
-bfccb59a-0601-4e99-8fb7-0b1516271c45,engineer.co,resell,,,high,low,8,"NameSilo, LLC",25/02/2010 00:26,24/02/2027 23:59
 f0cf06c0-646a-4555-8450-669b8fdab66a,material.com,resell,1149999.99,17.99,high,low,8,Atom.com Domains LLC,21/09/1995 04:00,20/09/2027 04:00
 2b45390d-b23c-431c-90a6-61d9d34d5413,heavy.tech,premium,312.5,,high,low,5,name.com,,
 f5a19cd9-dcc0-4c89-ac70-39ceb3ddf1bb,produce.supplies,available,24.99,24.99,high,low,7,namesilo,,
@@ -116,7 +118,6 @@ fac4f281-0ed5-4876-968d-acc183f14db9,design.zone,resell,,,high,medium,6,"Global 
 1ae0aa2b-9624-460c-a9e5-2c43c23675ca,creating.tech,premium,781.25,,high,low,8,name.com,,
 d1295e9e-badc-45dc-b7ab-ef50fba87e96,system.tech,premium,3125,,high,low,6,name.com,,
 67c4730c-8249-4fa2-b204-4c113fe2557e,facility.tech,premium,312.5,,high,low,8,name.com,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,812.5,3250,high,low,10,namecheap,,
 fe5f1010-39d8-4990-a1dd-59b4a6e12829,design.construction,resell,,,high,medium,6,Porkbun LLC,19/09/2024 15:15,19/09/2026 15:15
 c459e6f1-31cf-424f-ad54-9e0b8653e522,material.enterprises,available,5.99,50.99,high,low,8,name.com,,
 6e003579-5f0b-4134-8280-43bcf56f2dc3,material.gmbh,available,47.99,52.99,high,low,8,name.com,,
@@ -162,16 +163,15 @@ ea63aab2-2b80-47a6-a36d-27c0ff85cbdf,economy.sarl,available,,,high,low,7,,,
 d4e36c66-7807-4065-b354-139cbbeb9290,economy.ltd,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:07,21/06/2026 11:07
 02839326-b251-480a-8717-71778f248ac4,economy.ltda,premium,60,,high,low,7,name.com,,
 55fd6517-8bec-4d95-9af1-234aacaaf030,economy.limited,available,14.99,,high,low,7,name.com,,
-83590336-bb8f-4826-9311-f2aecdc3df75,management.supplies,premium,85.8,85.8,high,low,10,namecheap,,
 90d9087c-9c2d-4cc0-8f34-70c2004fc1aa,creating.supplies,available,24.99,24.99,high,low,8,namesilo,,
 17e6210c-c4f6-40af-91a6-dbf3500bd675,economy.engineering,available,11.99,,high,low,7,name.com,,
 0328632a-c614-4063-bfac-b90d33dcb774,produce.equipment,available,19.99,,high,low,7,name.com,,
 2e97a969-ed0b-4e2d-bde4-996de0b9c4a6,material.cloud,premium,625,625,high,low,8,name.com,,
+ead37033-7f01-4e99-9408-9ad1b08b1364,designing.engineering,available,10.48,85.98,medium,low,9,namecheap,,
 0774681d-28da-42d9-bd4f-a34e6f80526b,mill.equipment,available,19.99,,high,low,4,name.com,,
 fe553218-b203-4c83-ab8b-d8f8d62bd638,economy.holdings,available,80.99,,high,low,7,name.com,,
 96d91771-019d-4d37-b40b-cfcc4c7afbfd,metal.cloud,premium,6500,6500,high,low,5,namecheap,,
 784806ea-3ba1-496f-8b6e-c6b2ad90bde3,produce.parts,available,15.99,,high,low,7,name.com,,
-c1609820-d3f7-4767-b759-19b900c6f97f,management.supply,premium,128.7,128.7,high,low,10,namecheap,,
 9f2f0d72-1aa6-4068-9e11-24a895ea70e9,creating.supply,available,25.99,25.99,high,low,8,namesilo,,
 224ef4ea-fede-47dc-8709-2a9833cbf095,testing.supplies,premium,1000,,high,low,7,name.com,,
 4dadca4c-5f77-4ad8-a331-9893e1f73a50,economy.construction,available,15.99,,high,low,7,name.com,,
@@ -181,6 +181,7 @@ c1609820-d3f7-4767-b759-19b900c6f97f,management.supply,premium,128.7,128.7,high,
 e1aa5338-9b45-420d-ab45-87e77ef5ae8d,line.supplies,available,,,high,low,4,,,
 07cd5ebf-2a14-475d-b8e5-b935af79109d,trade.store,premium,781.25,3125,high,medium,5,name.com,,
 2da6ddc9-8d07-4016-a74d-c4cc8b64982a,business.solutions,resell,,,high,medium,8,Dynadot Inc,07/09/2019 23:01,07/09/2026 23:01
+5619630e-fa03-48f7-8e0b-5b40bb71893b,machines.engineering,premium,82.5,,medium,low,8,name.com,,
 77496bb7-63d1-42c9-8568-9d4b6875cc96,operation.equipment,available,19.99,,high,low,9,name.com,,
 db8ac423-c37f-45c0-b19d-a8f37846565b,mass.equipment,available,19.99,41.99,high,low,4,name.com,,
 f426d3e5-810b-4468-b7ac-a130fe74c3ad,component.industries,premium,123.75,123.75,high,low,9,name.com,,
@@ -204,8 +205,8 @@ b7899c40-a742-45ee-b3e0-c89047b18c03,designing.dev,available,,,high,high,9,,,
 646b8051-9536-45df-a137-f54fe4f30b94,business.srl,premium,54.28,30.68,high,medium,8,namesilo,,
 235388dd-cbe7-4402-b3fc-cad69ad3e96b,business.sarl,resell,,,high,medium,8,"NameSilo, LLC",10/09/2025 23:13,10/09/2026 23:13
 5cab9ef6-fef5-4e17-8651-c42a921254c3,business.ltda,premium,66.3,66.3,high,medium,8,namecheap,,
+19b1e72c-7b5f-41dd-b2dd-42821cdae895,factories.solutions,available,5.99,,medium,low,9,name.com,,
 9dab6529-85b2-4cdb-8499-da5b51358a92,trade.app,resell,,,high,medium,5,Porkbun LLC,06/07/2023 20:56,06/07/2026 20:56
-1c588b24-2cb1-4713-bcec-99e2bcbe73a1,management.equipment,available,19.99,,high,low,10,name.com,,
 c98bbdb3-3891-45bd-91a6-f1aaed34ea30,facility.equipment,available,19.99,,high,low,8,name.com,,
 ed94228c-7588-4178-9663-21d800a6e261,creating.equipment,available,19.99,,high,low,8,name.com,,
 135e55d4-dec5-41a4-8805-588545fa3d6e,scale.supplies,available,24.99,24.99,high,medium,5,namesilo,,
@@ -214,7 +215,6 @@ a409e5b2-f0c2-461c-95f4-68e546a13e45,control.services,resell,,,high,low,7,"Sav.c
 a71f4f30-88c5-4aa0-9be5-d37845711aa7,trade.world,resell,,,high,medium,5,Squarespace Domains II LLC,24/03/2024 15:15,24/03/2027 15:15
 d0022174-8b4c-4b76-8c0e-84f2323ed2f3,process.engineer,premium,1107,1107,high,low,7,namesilo,,
 c4697e7b-f673-490b-bce5-091f233ae328,equipment.tech,premium,1562.5,6250,medium,high,9,name.com,,
-e9fcb119-5d7f-4cb1-958a-42366c9aecc2,management.parts,premium,85.8,85.8,high,low,10,namecheap,,
 ef873cf5-84d6-4218-83be-fc2686a51bba,creating.parts,available,15.99,,high,low,8,name.com,,
 df1880d1-4f2f-4d61-bc9d-e606246b9395,facility.parts,available,15.99,,high,low,8,name.com,,
 6b9ccc5a-b84f-4397-804b-6b1e2340a22b,material.build,premium,625,625,high,low,8,name.com,,
@@ -222,12 +222,13 @@ ffb4dcc8-3496-4b7d-b105-eb2fa1174f33,element.business,resell,,,high,low,7,"Sav.c
 9475b8c4-70fa-4ac4-8cc4-a8840344156c,skill.tech,premium,6500,13000,high,medium,5,namecheap,,
 3b9f5b73-2b37-4f7a-80cb-60d2ae929e22,scale.supply,available,25.99,25.99,high,medium,5,namesilo,,
 e1a1474d-a765-4f17-b847-0b00f8c80f81,machine.systems,resell,,,high,low,7,Porkbun LLC,27/01/2020 06:39,27/01/2027 06:39
+94d777f0-6538-4114-a06f-e113931bb90d,designing.construction,available,15.99,50.99,medium,low,9,name.com,,
 dad30708-25d2-42ba-b6c8-5a7b7355a50b,element.company,resell,,,high,low,7,"Sav.com, LLC - 8",06/11/2025 15:15,06/11/2026 15:15
+35e03383-11b1-41f4-9d52-ab6bd61136d9,machines.ltda,available,46.98,,medium,low,8,namecheap,,
 33574892-4d94-49bf-bb13-72b73897725c,automated.supplies,available,24.99,24.99,high,low,9,namesilo,,
 3641c8ee-5025-406b-ba2d-1bef555b551c,assemblyline.supplies,available,24.99,24.99,high,low,13,namesilo,,
 27f28d1a-b686-4031-be65-9945083580a8,produce.industries,available,17.49,,high,low,7,name.com,,
 c33017ef-d9f5-4308-90c2-5af3b6e34598,commercial.equipment,premium,520,520,high,low,10,namecheap,,
-41c05ab8-d184-42e2-915f-abc4752058b8,engineer.solutions,premium,123.75,,high,low,8,name.com,,
 56aae555-daa7-4836-8e6b-a5cbc3c321d6,control.solutions,resell,,,high,low,7,"Sav.com, LLC",21/06/2015 16:01,21/06/2026 16:01
 84a9f55e-cc79-4d7b-abab-cfee1933ae51,business.cloud,premium,2600,2600,high,medium,8,namecheap,,
 4c3bb7e5-5753-4ac9-b393-907ad73df819,design.space,available,,,high,medium,6,,,
@@ -247,35 +248,27 @@ ad75985e-b52f-4c66-beac-d63231049144,assemblyline.supply,available,25.99,25.99,h
 3d87b4e5-dcc2-4267-a8f8-52a86512f7ec,building.parts,premium,260,260,high,low,8,namecheap,,
 d6316268-e5d8-42f0-a23b-2a50be90caf2,engineering.parts,premium,242,242,high,low,11,namesilo,,
 59913553-02be-40ac-92ac-fb51d6f72738,economy.build,premium,625,,high,low,7,name.com,,
+31dbba3b-f710-45aa-981c-ddae4f1e9657,engineering.eco,premium,4375,,high,low,11,name.com,,
 e9d2cf0e-a3a5-405a-95d5-8031f24f8843,company.tech,premium,1562.5,,high,low,7,name.com,,
 09ac3ebe-5bfe-46be-849e-9c5b589b61c5,center.parts,premium,118.8,118.8,high,low,6,namesilo,,
 9f6da0c9-2aca-46da-8ba9-d18fbba6e1a9,gathering.dev,available,,,high,high,9,,,
-15407156-211c-4d3f-9927-872e0df3a105,engineer.enterprises,available,5.99,,high,low,8,name.com,,
 6cd559d5-4029-437f-80b0-5c4bead6f9ed,element.enterprises,available,5.99,50.99,high,low,7,name.com,,
 86bc5161-8de1-4c12-b854-63d363a8a717,control.enterprises,available,5.99,,high,low,7,name.com,,
 982ecac3-b55e-42eb-8fa0-5b2dbf3f5627,element.llc,premium,625,625,high,low,7,name.com,,
 06637225-d4df-4a36-9ab7-330366d73b80,element.gmbh,available,47.99,52.99,high,low,7,name.com,,
-2323ff32-caad-407f-9bca-e22b87a74ba0,engineer.gmbh,available,47.99,,high,low,8,name.com,,
-975899f9-8f18-4b6e-9cae-8a71b95500e2,engineer.llc,premium,625,,high,low,8,name.com,,
 25b0d3ec-fc87-4e8c-9c5e-1fdcb4577921,control.gmbh,available,45.99,45.99,high,low,7,namesilo,,
 ac435d81-c7d3-4c48-aea5-619a1ac16c4c,control.llc,premium,625,,high,low,7,name.com,,
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,premium,811.25,811.25,high,low,10,name.com,,
 a42f51e6-9303-421b-b414-88b1eb7beba3,creating.dev,premium,411.25,,high,low,8,name.com,,
 dc1b8f8d-994a-4741-8086-5ec6db386465,facility.dev,premium,198.75,,high,low,8,name.com,,
-67daf561-e13b-4656-86e5-c6263d56a643,engineer.sarl,premium,41.25,,high,low,8,name.com,,
 a7062005-b2e4-41e0-bebe-dc65bab04121,element.srl,available,49.99,49.99,high,low,7,name.com,,
 e1f4a107-74e1-437a-925f-962c773d4a46,control.sarl,available,6.99,6.99,high,low,7,namesilo,,
-02772c8b-6dee-46fa-b146-a72f21b88cea,engineer.srl,premium,57.5,,high,low,8,name.com,,
 2c1b4ad9-5d7b-4427-a1d0-13fda309a328,control.srl,available,31.99,31.99,high,low,7,namesilo,,
 17e2bde0-edb4-4f25-a0ab-e3b12d20c1b1,element.sarl,available,6.99,6.99,high,low,7,namesilo,,
 fc036c71-5aac-43c2-b73b-f8c0ba644172,element.inc,premium,2015,2600,high,low,7,namecheap,,
 80422afe-5ea4-4e7d-8672-06ee5e0959b6,control.inc,premium,2061.5,2660,high,low,7,namesilo,,
-b6214d28-0187-4509-be75-e0c5e90aa77d,engineer.inc,premium,2170,2800,high,low,8,namecheap,,
 6b010b78-345b-4649-87fb-b2227ec5714c,control.ltda,available,34.99,34.99,high,low,7,namesilo,,
 3da54fd6-1af9-41a8-869b-5362872b81f8,element.limited,available,14.99,52.99,high,low,7,name.com,,
-74f67241-5698-4c3c-8a4c-fcfe8b2b5c84,engineer.ltda,premium,60,,high,low,8,name.com,,
 00345578-d661-455f-806e-2304aa63c6a3,element.ltda,available,34.99,34.99,high,low,7,namesilo,,
-b5475e57-49f1-4c0b-b9ac-9aa2ad7e0cef,engineer.limited,premium,82.5,,high,low,8,name.com,,
 7e26adaa-eb35-419e-a08f-40570df7de05,element.technology,resell,,,high,low,7,"Spaceship, Inc.",03/08/2025 17:32,03/08/2026 17:32
 49fb62b8-ebd5-4f97-b8b3-a2f91f4c8d76,material.contractors,available,9.99,45.99,high,low,8,name.com,,
 0f0b15dd-4f21-4008-90d5-b906fe1761e1,material.builders,available,7.99,50.99,high,low,8,name.com,,
@@ -284,20 +277,20 @@ bc67a49b-b8f6-4213-81a6-18a0d051ccfb,trade.net,resell,,,high,medium,5,Tucows Dom
 3a65f661-d25b-499d-933b-99ae68958560,material.space,premium,325,1300,high,low,8,namecheap,,
 a5c748db-4455-487a-b1c4-f838312b6490,industry.equipment,resell,,,high,medium,8,united-domains GmbH,01/04/2016 00:10,01/04/2027 00:10
 f8f49083-c385-4eb7-bb37-7f373056b7ea,operation.industries,available,17.49,,high,low,9,name.com,,
+9d27f0f8-c4fb-4cc4-9e35-96257594c51e,building.shop,premium,625,,high,low,8,name.com,,
 2107d946-23cb-40d2-a11d-e4c83b53dc23,element.holdings,available,80.99,84.99,high,low,7,name.com,,
 c343f7aa-bc47-4387-9d9b-4b3e333b38df,control.holdings,available,64.99,64.99,high,low,7,namesilo,,
-405c1240-d959-4f0b-91cc-d0264653be49,engineer.holdings,available,80.99,,high,low,8,name.com,,
 691abd2c-5a1a-4451-9fbc-519bfbdb1c92,metal.contractors,premium,85.8,85.8,high,low,5,namecheap,,
 d97368b8-c85f-413d-8609-80c0e4ae00f1,metal.builders,available,7.99,,high,low,5,name.com,,
 bbe4b4c9-5a9d-4daa-bbf4-38d6db6eb59d,scale.equipment,available,19.99,,high,medium,5,name.com,,
 6143b408-b4cd-4dc2-9ee4-67d1ee7e93ba,trade.garden,premium,1040,31.2,high,medium,5,namecheap,,
+06c5ef1c-636d-4077-bc55-3df3647701af,designing.build,premium,312.5,312.5,medium,low,9,name.com,,
 55ce447c-dd7e-4bbc-8c41-0bbde4619e23,control.zone,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",09/09/2016 18:23,09/09/2026 18:23
-d4e3adac-3f4d-4e3d-a511-3dbf4b27ae0e,meeting.tech,available,,,high,high,7,,,
+7d91f339-57b4-413d-8c5b-6cff7a49a560,creating.trading,available,19.99,,high,low,8,name.com,,
 00d7a2fb-2990-4fbb-95b2-545cd50ba5a2,network.engineer,available,,,high,low,7,,,
 2c6ac2dc-3664-4a22-be24-e9ca20ddaf90,quality.ai,resell,,,high,low,7,"GoDaddy.com, LLC",03/05/2022 16:19,03/05/2028 16:19
 f46d372e-4666-455a-af47-c0c7fb275337,trade.foo,premium,648.7,648.7,high,medium,5,namecheap,,
 3adfa38d-0050-48f2-9d02-c0ebc71831af,quality.business,premium,500,,high,low,7,name.com,,
-7ee4d4a1-8f64-4f86-8dce-60c032647eb5,engineer.construction,available,15.99,,high,low,8,name.com,,
 5a89f891-aabb-4bb6-9971-77a09820af40,design.biz,resell,,,high,medium,6,"GoDaddy.com, LLC",27/03/2002 07:44,26/03/2027 23:59
 128c77bf-add6-4ba8-8623-e767f8ecb56e,just.tech,premium,781.25,,high,medium,4,name.com,,
 9e2775f6-f9be-4c37-88c9-3adbfb47e068,process.enterprises,available,5.99,,high,low,7,name.com,,
@@ -311,6 +304,7 @@ a8633db3-7e36-4d4d-99ee-b070f984bc8f,process.inc,premium,2061.5,2660,high,low,7,
 c9b1f44a-76d7-4e1f-b3d5-35a83ddd0dc5,process.ltda,premium,56.64,33.04,high,low,7,namesilo,,
 2ba53455-d51d-4c24-9dfe-e2ccc2b26b61,machinery.supplies,available,24.99,24.99,medium,low,9,namesilo,,
 55f8434e-d1f1-4e49-9862-b132b280005f,industrialize.supplies,available,24.99,24.99,medium,low,13,namesilo,,
+55089d39-69e4-4f1e-805f-15922934b938,transportation.cc,resell,,,medium,low,14,"Global Domains International, Inc. DBA DomainCostClub.com",14/10/2011 15:52,14/10/2026 15:52
 8295f430-5f7f-448e-b6c7-f53f7c386cf1,process.technology,resell,,,high,low,7,"Spaceship, Inc.",30/05/2024 15:15,30/05/2027 15:15
 e5a4b587-ec14-4812-bc45-ef4946e10857,economy.contractors,available,9.99,,high,low,7,name.com,,
 127353b4-c608-496e-b066-27fddd869dfb,design.store,premium,1562.5,6250,high,medium,6,name.com,,
@@ -321,12 +315,13 @@ e3e16c78-b272-41e7-96c6-b5d746e1ce19,economy.space,premium,875,3500,high,low,7,n
 9034353a-d148-4a29-8a3b-07f5e52c8e10,assemblyline.equipment,available,19.99,,high,low,13,name.com,,
 158ffad7-fdaf-4adb-9c2b-d7e1bad2b5fc,maker.equipment,available,19.99,41.99,high,low,5,name.com,,
 afce4f79-166d-4f3d-9132-9ce5bbd40c96,company.supplies,premium,242,242,high,low,7,namesilo,,
-4539aacd-c7ad-4bc4-93bb-b086dba2f7c6,management.industries,premium,260,260,high,low,10,namecheap,,
 85241c25-7b17-4499-b615-16874d06410b,facility.industries,available,17.49,,high,low,8,name.com,,
 0e5740a3-0629-44af-ba15-369634bca0b6,creating.industries,available,17.49,,high,low,8,name.com,,
 c175865c-1838-4773-a07a-1370a1f04cda,network.services,resell,,,high,medium,7,NameWeb BVBA,21/06/2015 16:00,21/06/2026 16:00
 ee3706c2-aca4-46d8-bb28-48392c7c0761,process.holdings,available,64.99,64.99,high,low,7,namesilo,,
+145fa1c2-dec2-46bd-a542-eb27979d9728,machinist.srl,premium,54.28,30.68,low,low,9,namesilo,,
 84d66ee3-8f2a-4720-9c85-40da7b560965,design.tools,resell,,,high,medium,6,"Sav.com, LLC - 49",09/09/2022 13:15,09/09/2032 13:15
+616a5bc3-aa86-4c51-a3aa-20ce8d14d314,machinist.parts,available,10.48,45.98,low,low,9,namecheap,,
 47ab468f-fc1b-4ce6-911e-6293b6b4e223,technology.engineer,premium,1300,1300,high,low,10,namecheap,,
 21ce18ba-89d2-4ca1-99de-3e1b61decff5,automation.tech,premium,1562.5,6250,medium,high,10,name.com,,
 58573523-a860-481d-b435-0a2cd1a70efe,handling.tech,available,,,medium,high,8,,,
@@ -342,6 +337,7 @@ e686f755-6f88-4216-89be-0d350d04fdd7,creator.parts,available,15.99,52.99,high,me
 9dd7db92-8b7c-44e7-8370-e142c3959d9e,business.build,premium,1950,1950,high,medium,8,namecheap,,
 bcd4da78-5988-429a-96bd-54f760dfb50c,produce.co,resell,,,high,low,7,"Spaceship, Inc.",07/08/2011 16:30,06/08/2026 23:59
 e521ae0c-7546-4644-83d9-18b3e30eb4e5,design.trade,resell,,,high,medium,6,Porkbun,29/07/2019 12:35,29/07/2026 12:35
+ae37926c-4174-4cb7-b05f-2f3c8ba50646,plants.barcelona,available,38.98,,high,low,6,namecheap,,
 54483ec6-5620-4127-b1a6-07290e9e3aed,factories.supplies,available,24.99,24.99,medium,low,9,namesilo,,
 4cf04c6d-d9c1-4d98-9b15-78697b28a7a0,company.supply,premium,78.54,78.54,high,low,7,namesilo,,
 3a16167e-5ce8-4082-905e-f9e7b74cf35c,testing.industries,available,17.49,,high,low,7,name.com,,
@@ -368,6 +364,7 @@ a00c69a2-853a-4e72-9208-e910dd18885c,metal.store,premium,781.25,3125,high,low,5,
 02025d6a-29e2-404c-bcc2-81de5fefc088,center.industries,premium,118.8,118.8,high,low,6,namesilo,,
 afd64cb5-4138-4789-a5da-381c94671e55,quality.zone,resell,,,high,low,7,"DNSPod, Inc.",16/02/2019 23:38,16/02/2027 23:38
 1e0202f3-bab8-4e5c-baca-bb90ede9f21e,metal.tools,premium,85.8,85.8,high,low,5,namecheap,,
+1147c15d-10f9-47d0-8ec4-87620b38255a,machinist.enterprises,available,5.99,50.99,low,low,9,name.com,,
 42f2304d-5afc-4c5c-ad29-0b0490f202c8,trade.diy,premium,325,650,high,medium,5,namecheap,,
 2d0a7d29-5580-49bf-802c-d28c75144c7f,lean.tech,available,,,medium,high,4,,,
 18c40fc1-a647-407c-be74-09343f160168,robotics.tech,premium,1562.5,6250,medium,high,8,name.com,,
@@ -413,8 +410,10 @@ e2e87de9-7bab-4e63-934d-4b4b5fd08269,economy.tools,available,,,high,low,7,,,
 770bfebc-2144-457d-b84e-ac3da5074021,metal.world,resell,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/03/2020 20:44,31/03/2027 20:44
 c9cd8c33-0098-42d8-8c7f-f58d00e7b637,company.equipment,premium,500,,high,low,7,name.com,,
 9c9e66b4-764a-47b8-a1d5-725e14a0b08e,trade.storage,available,509.99,529.99,high,medium,5,namesilo,,
+8d977e3c-08ef-4148-842d-7a9193e42cf4,machines.delivery,available,8.99,,medium,low,8,name.com,,
 2cb59ca8-b044-459a-8133-eea7f422bac4,scale.industries,premium,242,242,high,medium,5,namesilo,,
 942b36f6-c657-4414-ad0b-2254e69420f7,machine.zone,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),02/07/2015 11:54,02/07/2026 11:54
+cfaa8ad7-9a3c-4804-84cf-d1d6b7fb23d0,meeting.holdings,available,64.99,64.99,medium,low,7,namesilo,,
 87a8105e-af62-491f-937a-c744eb614c42,metal.global,premium,5200,65,high,low,5,namecheap,,
 2a44b8cf-3b0d-466a-9117-395f0008fa5f,component.engineer,premium,1250,1250,high,low,9,name.com,,
 e991b611-97bf-4b2f-9158-86ab2c62f926,welding.tech,premium,312.5,1250,medium,high,7,name.com,,
@@ -426,13 +425,12 @@ f97d55fa-c8c4-4660-9fbf-b72f49a8a45f,operations.tech,premium,1625,6500,medium,hi
 df85fa18-9490-4600-8710-c55f99729e94,industrialize.parts,available,15.99,,medium,low,13,name.com,,
 a70bfed1-e04f-46e0-bf1c-296453d47f0d,machines.co,resell,,,medium,low,8,"GoDaddy.com, LLC",21/07/2010 21:36,20/07/2026 23:59
 51f7e3b8-fbd4-461c-a36e-626177a0fc39,science.parts,premium,118.8,118.8,high,medium,7,namesilo,,
-0f616f28-456a-4d4d-be60-c06dca250054,engineer.build,premium,1875,,high,low,8,name.com,,
 1511763e-9cd2-41e0-9f46-2a0381f1dda6,element.build,premium,625,625,high,low,7,name.com,,
 969431d9-f07d-46cb-a4c2-d9caeabc9f39,control.build,premium,1950,1950,high,low,7,namecheap,,
 e2af3ecb-b487-46d4-86ef-4fe9f60925ef,produce.systems,available,21.99,,high,low,7,name.com,,
 417eb38a-9708-4b73-b421-1d4e1381ea37,gathering.co,resell,,,high,high,9,"GoDaddy.com, LLC",27/01/2023 17:00,27/01/2026 17:00
 40a59a2c-036b-4d5b-b367-0674f00715c7,company.parts,premium,242,242,high,low,7,namesilo,,
-5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,,,high,low,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2027 23:59
+ffd96835-b3b3-474c-afbb-53a6ff9bfc98,productive.supplies,available,25.48,32.48,medium,low,10,namecheap,,
 514edac2-c742-45d3-bb04-fe219883fea2,technology.enterprises,resell,,,high,low,10,Porkbun LLC,27/04/2022 13:15,27/04/2027 13:15
 d1f7a698-d975-4444-b856-40d1c52811fc,trade.software,premium,520,520,high,medium,5,namecheap,,
 ba557acb-1abc-4c36-909f-3a6dd9244f97,unit.llc,premium,625,,high,low,4,name.com,,
@@ -447,6 +445,8 @@ cb38f7d3-8d1e-47c3-9486-8bb18fc104be,technology.sarl,available,8.98,,high,low,10
 77171777-7eac-46c0-93e9-fd24b2bb249b,mill.systems,available,21.99,,high,low,4,name.com,,
 183eb21c-8903-4917-a374-48cfff70a663,belt.tech,premium,781.25,,high,low,4,name.com,,
 f0cf1666-8723-4223-bf08-ddbde8864abf,technology.inc,premium,2015,2600,high,low,10,namecheap,,
+75de8991-6eef-44f0-98e9-cbd54a4e5f36,machinist.gmbh,available,45.99,45.99,low,low,9,namesilo,,
+636132df-30f1-4ac9-b358-f0a1eb7fecab,machines.foo,premium,161.25,,medium,low,8,name.com,,
 700d6691-6f52-47a3-a139-9c6698ee68cd,technology.ltda,premium,66.3,66.3,high,low,10,namecheap,,
 fbefae6d-7820-4e7a-8d46-ddda0669d2f8,unit.ltda,premium,56.64,33.04,high,low,4,namesilo,,
 1be50f68-ec06-4c40-a503-b03e253ea6ac,technology.ltd,resell,,,high,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 08:39,21/06/2026 08:39
@@ -466,6 +466,7 @@ fadd4df9-e1bc-451f-ae60-5f64812f6117,machine.cloud,resell,,,high,low,7,"NameSilo
 c946538b-ee51-45fe-9697-4c3ab8138352,technology.holdings,premium,260,260,high,low,10,namecheap,,
 aad043cf-ba46-418e-9b24-0479c62f3533,unit.holdings,available,64.99,64.99,high,low,4,namesilo,,
 a9dab028-bd46-4603-9e56-de697cd30ca7,workshop.io,resell,,,high,high,8,"GoDaddy.com, LLC",30/08/2020 14:31,30/08/2025 14:31
+ffd3cdf2-05d4-4823-896a-d8243ff279d5,construction.exchange,premium,46.2,46.2,high,low,12,namecheap,,
 832fcbf9-49b2-4a42-a7fd-b75c798a9847,trade.productions,premium,128.7,128.7,high,medium,5,namecheap,,
 4825cd12-48b0-4c36-83e5-f5167b744abd,plants.ltd,resell,,,high,low,6,Dynadot Inc,07/02/2026 17:00,07/02/2027 17:00
 bb0c42d6-b32d-4341-a9ac-37f6bb17ce04,trade.consulting,premium,520,520,high,medium,5,namecheap,,
@@ -475,11 +476,13 @@ ebbaba92-dde3-4971-9883-16e3e6d8a571,just.equipment,available,19.99,,high,medium
 64cf6740-f3ac-4558-ae3f-b7cb0de6ef61,technology.zone,resell,,,high,low,10,Porkbun LLC,29/04/2014 08:33,29/04/2027 08:33
 d4d18913-3609-44c4-bc77-0ca93625663d,trade.market,available,,,high,medium,5,,,
 5acf7e2e-68ab-401d-9f45-d7e58c319617,creation.engineer,available,13.99,,high,low,8,name.com,,
+af8e0062-be5c-49b6-8573-eda536dbcadd,machines.ag,available,89,,medium,low,8,name.com,,
 1e32d621-eb8c-4ba6-859c-3b378586722c,process.build,premium,1875,,high,low,7,name.com,,
 d41e59a7-fe2f-429a-a577-b8a5dcf1c78f,design.foo,premium,1248.75,1248.75,high,medium,6,name.com,,
 8f9ea287-3029-4b9f-a28d-f7229058cdf0,component.business,available,3.99,27.99,high,low,9,name.com,,
 807d777e-cc00-4ad0-89aa-d72bd9712632,material.digital,resell,,,high,low,8,"Sav.com, LLC - 10",26/02/2026 15:15,26/02/2027 15:15
 48746dcc-7e33-4795-94d6-c5d6aea1b438,unit.construction,available,15.99,,high,low,4,name.com,,
+153fb89a-bfac-4fcc-afee-534317d96a24,engineer.technology,resell,,,medium,low,8,"GoDaddy.com, LLC",16/05/2026 17:04,16/05/2027 17:04
 93f3e2eb-92aa-43e7-9f96-12dd9d79fb4d,natural.equipment,available,19.99,,high,low,7,name.com,,
 6b2c9e3c-b481-442d-ab93-6d1175c15a2b,trade.im,available,,,high,medium,5,,,
 313d94aa-09bf-4dab-9952-cded2073258c,trade.pw,premium,6500,6500,high,medium,5,namecheap,,
@@ -494,6 +497,7 @@ caf366d1-ca4b-437b-91b1-a4f0754f2289,trade.mov,premium,648.7,648.7,high,medium,5
 8a747b75-5636-4560-919b-e419a286cafc,trade.film,premium,260,260,high,medium,5,namecheap,,
 154278fa-7e63-4674-a808-cad5b002b2b0,trade.movie,available,69.99,,high,medium,5,name.com,,
 9807eccd-358e-43c3-aacc-356a1bf6aea2,operation.systems,premium,78.54,78.54,high,low,9,namesilo,,
+94f48025-3b07-4bd7-b02f-6ad98831cbb7,engineer.shop,premium,625,,high,low,8,name.com,,
 535b4ca2-9030-44ca-9e8b-fc77a43f0f5d,component.company,premium,16.9,16.9,high,low,9,namecheap,,
 2edc9ee5-88f4-4574-9d13-b29fc8d765c6,trade.pro,resell,,,high,medium,5,Dynadot Inc,02/03/2005 00:00,02/03/2026 00:00
 2c89b51e-a259-477c-a382-713d72781eef,metal.ninja,premium,128.7,128.7,high,low,5,namecheap,,
@@ -504,17 +508,20 @@ aa6a2e44-7ef9-4ef9-bb8e-606b7c82af4a,element.contractors,available,9.99,45.99,hi
 13ff4858-3865-486d-aaed-028a830068a5,element.builders,available,7.99,50.99,high,low,7,name.com,,
 028742c7-9477-4f9d-ac42-7b32b8234664,business.store,premium,3125,12500,high,medium,8,name.com,,
 3239e82b-5044-4cb1-92ca-97d931f43fc1,supply.store,premium,781.25,3125,high,high,6,name.com,,
+a54eceb6-2288-4cc6-8e71-0d073576d4d5,control.shop,premium,625,,high,low,7,name.com,,
 b069f7b9-58b1-4da2-acc1-5e3902063f56,mechanical.solutions,resell,,,high,low,10,Porkbun LLC,07/12/2019 23:02,07/12/2026 23:02
 49c204fa-e65e-45fa-ae91-ee2a658a1ffb,component.solutions,resell,,,high,low,9,Squarespace Domains II LLC,06/08/2021 08:19,06/08/2027 08:19
 689a651a-d775-4d20-92c1-567bcc4f5203,technology.cloud,premium,6500,6500,high,low,10,namecheap,,
 7ef10144-6b5d-4f30-afd5-2395f314b4ea,storage.cloud,available,,,high,high,7,,,
 4fd4a1e6-7dbf-4664-9af4-868555fa2de0,element.space,premium,1625,6500,high,low,7,namecheap,,
 f53888e9-b8b1-4796-9b55-dfcc0b6869c3,control.space,premium,1750,7000,high,low,7,namecheap,,
-59c48a8d-15ca-439a-9ccc-9c033022119f,engineer.space,premium,1750,7000,high,low,8,namecheap,,
 b199da1b-35ad-4a0b-b63e-6767efb145d3,industrial.equipment,premium,520,520,medium,low,10,namecheap,,
+23643a3d-fc2b-4f09-8a4a-ca916a5ca9cb,metal.shop,premium,3125,,high,low,5,name.com,,
 4cbf0086-8a48-4ed8-9f7d-6d3aead5c297,industry.industries,premium,500,,medium,medium,8,name.com,,
 aa35addc-a0f2-4015-9e8e-c6c0626cd8c5,creation.services,resell,,,high,low,8,"GoDaddy.com, LLC",04/07/2025 17:00,04/07/2026 17:00
 a6e651f1-d13b-414d-aa9d-d35625cf30d7,natural.parts,available,15.99,,high,low,7,name.com,,
+cc327ce0-26c1-4228-88fc-be4fec6576d3,factories.srl,available,31.99,31.99,medium,low,9,namesilo,,
+5868878b-9fbd-4e3a-a306-0c53100af413,material.now,premium,23675.79,,high,low,8,"Spaceship, Inc.",20/02/2025 17:27,20/02/2027 17:27
 5bae43c5-78c1-42ea-aafe-f39cfdc15cf0,mechanical.io,resell,,,high,low,10,"GoDaddy.com, LLC",07/06/2018 10:21,07/06/2026 10:21
 577b88d8-eac1-428d-a044-1f15413b2a89,metal.net,resell,,,high,low,5,"eNom, LLC",28/08/1995 04:00,27/08/2026 04:00
 bd236d81-f541-4fa3-9e4d-2fe328403f15,economy.management,available,14.99,,high,low,7,name.com,,
@@ -525,10 +532,13 @@ a9e13123-64ab-46e8-ab9d-fcfc0b395376,skill.industries,available,17.49,,high,medi
 964898c6-1456-4ca3-87eb-4d075b2fc811,material.garden,premium,100,45.99,high,low,8,name.com,,
 02ea2e27-dccc-466e-ab9b-fda71f8e842f,produce.engineer,available,13.99,,high,low,7,name.com,,
 53922336-8180-474a-abb5-116ce455e8f7,workshop.zone,available,,,high,high,8,,,
+242d1d32-cf92-4c48-be9b-0ca4a79ea71b,organization.cyou,premium,68.43,147.2,high,low,12,namesilo,,
 32a3efa4-4e31-4d76-a614-1c30cb862d20,trade.energy,resell,,,high,medium,5,Dynadot Inc,31/07/2025 17:04,31/07/2026 17:04
+9c229edc-054d-4329-8455-88e5822e887b,engineer.supplies,premium,78.54,78.54,medium,low,8,namesilo,,
 f66bb51a-f68d-4874-803a-fa17269e9f8f,metal.garden,premium,1040,31.2,high,low,5,namecheap,,
 c072b572-997c-4dac-bcc4-40bcac248143,floor.tech,premium,781.25,,high,low,5,name.com,,
 17c242e1-df70-454b-a04f-cb645c1764bb,mill.engineer,available,13.99,,high,low,4,name.com,,
+362c2497-8a68-4108-b819-7240d0a4d740,lean.company,resell,,,low,low,4,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00
 baeea32d-5150-4a07-8abf-82ad31583532,massproduction.tech,available,13.99,84.99,medium,high,15,name.com,,
 b092055c-5a5b-4cd7-9391-0e855ed506d1,unprocessed.tech,available,,,medium,high,11,,,
 995fde3e-eccc-44cf-979b-6570995b36ea,craftsmanship.tech,available,,,medium,medium,13,,,
@@ -538,12 +548,14 @@ ccd862be-99de-40de-b547-60bf04a2c6d9,machinetool.tech,available,,,medium,high,12
 fcec8824-4fd8-41cc-8b8a-fc0da53edd6e,material.foo,premium,161.25,161.25,high,low,8,name.com,,
 dd5fa4a5-79e9-4b8a-b4db-219eae1b9935,business.trade,premium,6500,130,high,medium,8,namecheap,,
 6961ecff-06a8-44aa-9713-6015d2db58be,trade.actor,premium,260,260,high,medium,5,namecheap,,
+4f786cfc-b7e0-48c6-b828-c40964a5a159,chain.shop,premium,625,,medium,low,5,name.com,,
 1cd77af5-54cf-4365-9905-039442d2d32b,metal.foo,premium,648.7,648.7,high,low,5,namecheap,,
 2cfa1946-22f6-4fc6-9812-4ff3f671e900,mechanical.enterprises,available,5.99,,high,low,10,name.com,,
 c33fdf47-7c1d-44e1-a411-68c857b9f897,economy.ninja,available,9.99,,high,low,7,name.com,,
 2730e4ad-c137-4fe3-bc2e-f0a35951cb76,component.gmbh,available,47.99,52.99,high,low,9,name.com,,
 06ea8ee8-dacf-4d21-8e11-da95389d9f5c,modeling.dev,premium,411.25,411.25,medium,high,8,name.com,,
 86938dc5-7ed5-4de3-90d6-dca92fd2da96,machinist.dev,available,,,medium,high,9,,,
+734872c6-6960-44c7-a356-5fd4a62bda7a,gear.cloud,resell,,,high,low,4,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",29/04/2026 08:21,29/04/2027 08:21
 9b52755d-0caf-4726-9cf5-b851682a7a41,component.sarl,available,6.99,6.99,high,low,9,namesilo,,
 662f0dba-da67-4fc6-b379-c9b71f75eac7,mechanical.srl,available,31.99,31.99,high,low,10,namesilo,,
 e8eef25d-b1a3-40e9-8fa4-688a7b86fcc4,mechanical.sarl,available,6.99,6.99,high,low,10,namesilo,,
@@ -554,6 +566,7 @@ b0f6164a-f6de-4c02-ac98-eadc04d99923,output.zone,available,,,high,high,6,,,
 3490cef1-54bc-4a29-938d-136659da6997,component.inc,premium,2015,2600,high,low,9,namecheap,,
 bc3f501a-c6c9-4733-967f-bbed953d0626,mechanical.inc,premium,2061.5,2660,high,low,10,namesilo,,
 390a0f0b-8571-468f-9df1-a6370e9f8cc0,design.works,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",09/08/2015 16:00,09/08/2027 16:00
+e8c65232-8cee-41bb-b403-4b7823dda68f,lean.srl,premium,54.28,30.68,low,low,4,namesilo,,
 3b1ae011-1fe2-4443-9606-8a25b3f16b7e,creation.company,resell,,,high,low,8,"Spaceship, Inc.",13/08/2022 13:15,13/08/2026 13:15
 56643771-7f15-4e85-8967-679f7bd2b9c0,component.limited,available,14.99,52.99,high,low,9,name.com,,
 5f98eacf-c11f-4e78-b891-5bee90163fe5,mechanical.ltda,available,34.99,34.99,high,low,10,namesilo,,
@@ -562,7 +575,9 @@ d601417d-fd7d-4a47-bd6e-24793f893bba,component.ltda,available,34.99,34.99,high,l
 8e8147cf-2d97-4699-9236-917dd9029655,weld.tech,available,,,high,high,4,,,
 26c243fb-1ea8-40ce-90ee-6315e0172311,component.technology,available,17.99,41.99,high,low,9,name.com,,
 de05d8ca-477c-4f32-9920-42da2c5c689c,designing.tech,premium,312.5,1250,medium,low,9,name.com,,
+50298676-978e-42fa-a9e3-40b356d9278a,engineer.supply,premium,118.8,118.8,medium,low,8,namesilo,,
 c1b8bad7-3d1d-47df-96b5-c617e317dfd9,process.contractors,available,9.99,,high,low,7,name.com,,
+93952a60-3a2c-4a90-b704-d7c99386bdd4,construction.trading,available,19.99,,high,low,12,name.com,,
 4b536b44-e39c-4f70-8486-98cdbdf85296,industrialize.industries,available,17.49,,medium,low,13,name.com,,
 c32d20f2-495b-4953-ad45-083ed98aba2d,construction.industries,premium,260,260,medium,low,12,namecheap,,
 fda717c9-e825-4168-b4f4-24651d0bb4ac,science.industries,premium,242,242,high,medium,7,namesilo,,
@@ -572,6 +587,7 @@ cf542fee-dc9b-42df-84ef-198bfd952485,material.express,available,16.99,50.99,high
 7b4b9425-a67e-481b-ac8c-eb7a838fb468,mechanical.holdings,available,64.99,64.99,high,low,10,namesilo,,
 fb55628d-514c-4092-a4e6-91e0a14c5372,component.holdings,available,80.99,84.99,high,low,9,name.com,,
 77aefcfb-183e-4beb-99d9-91fb1483da5a,metal.delivery,available,8.99,,high,low,5,name.com,,
+b0064023-7a99-4a7f-a4fa-b6bac01ceea2,machinist.technology,available,3.98,37.98,low,low,9,namecheap,,
 9ef0da9b-7703-454a-883f-96e87640ea4c,metal.express,resell,,,high,low,5,"Spaceship, Inc.",04/01/2021 03:28,04/01/2027 03:28
 df5eaafb-74f8-4552-bea6-ac6e3184c5e9,metal.fast,premium,130,128.7,high,low,5,namecheap,,
 e1136aa5-8609-4a26-b4c7-415ee0aca71c,trade.icu,premium,106.8,227.84,high,medium,5,namesilo,,
@@ -594,7 +610,6 @@ b63e3936-eeb6-4d35-ad4a-6f7b55c9c419,organization.tech,available,,,medium,low,12
 89b658df-74e0-40cc-b098-77e213609e04,mill.business,available,3.99,,high,low,4,name.com,,
 95502c02-50d3-42d8-8cca-53714c053c5a,mechanical.construction,available,,,high,low,10,,,
 5f078157-d114-4d35-90e6-9093eb3622ce,element.biz,resell,,,high,low,7,"Moniker Online Services, LLC",27/03/2002 03:58,26/03/2027 23:59
-f30651d3-d54a-4b47-aa19-3615ee77d22f,engineer.biz,resell,,,high,low,8,"Spaceship, Inc.",27/08/2022 17:41,27/08/2026 17:41
 1624da10-d337-4562-b379-1933f0530602,control.biz,resell,,,high,low,7,Sav.com LLC,12/06/2023 19:14,12/06/2026 19:14
 ee7cdefc-05ca-49f6-a4b8-36ed32b1869e,trade.tienda,available,9.99,,high,medium,5,name.com,,
 1b618905-0786-41e6-8015-255a1824417e,heavy.engineer,available,13.99,,high,low,5,name.com,,
@@ -624,7 +639,6 @@ bbcf5a13-a460-4962-97b8-78ace7d1893d,creation.engineering,available,11.99,,high,
 381178a1-00dd-4a4d-a162-90408945559b,center.systems,available,21.99,,high,low,6,name.com,,
 6022b942-3888-4e8d-9f34-d2ad79f1be84,quality.contractors,premium,78.54,78.54,high,low,7,namesilo,,
 5e309d7a-544e-4dc8-bb19-7a6761dbe4ee,quality.builders,premium,500,,high,low,7,name.com,,
-4394725b-b522-401a-b47a-713c4d07f40d,engineer.store,premium,781.25,,high,low,8,name.com,,
 85ffc35f-a35b-4e25-9373-8c1bb204140e,control.store,premium,781.25,,high,low,7,name.com,,
 fd69f276-a1a6-4862-a931-cd8d55dba6b5,mill.solutions,available,,,high,low,4,,,
 5b3a8764-d546-4769-8b3d-a00fc10ed807,component.cloud,available,,,high,low,9,,,
@@ -633,16 +647,20 @@ c0666fe0-8098-4d64-9af1-781d55fbd31a,mechanical.cloud,resell,,,high,low,10,"HOST
 9a49f476-da94-45c2-be58-94b2c9c745f3,trade.band,premium,128.7,128.7,high,medium,5,namecheap,,
 932266f1-85e8-4b79-8382-c681de01efc9,quality.space,premium,875,3500,high,low,7,namecheap,,
 eb1673b2-170a-4994-9d18-4d8d7292ab4e,economy.delivery,available,8.99,,high,low,7,name.com,,
+040811dd-6979-4198-aa4b-da0a4d89cc93,production.technology,resell,,,medium,low,10,Dynadot Inc,21/11/2017 23:34,21/11/2026 23:34
 125a1c3e-8ca3-44fa-a2a9-de9d2a89d55b,chain.industries,resell,,,medium,low,5,"Sav.com, LLC",14/07/2025 17:07,14/07/2026 17:07
 8f84bc65-4e0e-48b2-b813-3b54572917a6,element.services,resell,,,high,low,7,"GoDaddy.com, LLC",29/07/2024 15:37,29/07/2026 15:37
 33f3f07e-56d8-47fa-9ba5-3dd9a19af6f4,trade.sbs,premium,143.65,574.6,high,medium,5,namecheap,,
+12c23782-4d48-4473-996a-b82d05efb4e0,fabricated.solutions,available,5.99,41.99,low,low,10,name.com,,
 9260f035-2709-4a2c-896b-d901c39fd4d3,economy.fast,premium,62.5,,high,low,7,name.com,,
 cad3a7a9-2722-4848-b170-059a808280f5,economy.express,available,16.99,,high,low,7,name.com,,
 92786e42-fb64-47ef-9eff-1c45705575db,creation.holdings,available,64.99,64.99,high,low,8,namesilo,,
 719c6228-f615-4b33-87bd-053b5c08d06e,trade.site,premium,1562.5,6250,high,medium,5,name.com,,
+f0e5485a-9d48-4c3d-a7d5-e8f7696214e1,forgery.supply,available,25.99,25.99,low,low,7,namesilo,,
 3b03a6f2-ec57-4aa5-ae73-a9ad9c895b4f,primary.supplies,available,24.99,24.99,high,low,7,namesilo,,
 e6cf9fd3-a7cf-445a-9ecb-e19081873639,trade.ceo,premium,518.96,518.96,high,medium,5,namecheap,,
 4d80f924-2b42-4f2b-86a1-36c2ebba0c0c,design.storage,available,799,949.99,high,medium,6,name.com,,
+40531982-6e99-43e7-8fff-bce12e60d2ce,fabricated.com,resell,,,low,low,10,GoDaddy Online Services Cayman Islands Ltd.,17/10/1998 04:00,16/10/2026 04:00
 9b1eaaa1-611b-4dc5-9f46-f183876a9c4b,trade.cars,available,1999.99,2199,high,medium,5,namesilo,,
 099a9a1e-9d48-4a05-a785-2f6c1a88b9c3,trade.dealer,premium,2015,2600,high,medium,5,namecheap,,
 7b4eaf33-8451-4b7a-9ae4-e05d043cd3d7,trade.car,available,1999.99,2199,high,medium,5,namesilo,,
@@ -653,7 +671,6 @@ e6cf9fd3-a7cf-445a-9ecb-e19081873639,trade.ceo,premium,518.96,518.96,high,medium
 103e3a3b-0e3f-4618-a7c6-3ff0eafa4555,heavy.services,available,15.99,,high,low,5,name.com,,
 e24183ef-ba6d-4223-a0dc-753723d4aca1,design.work,resell,,,high,medium,6,Dreamscape Networks International Pte Ltd,20/07/2017 00:57,20/07/2028 00:57
 4562d96b-76ed-4d4d-b2ac-bcec3113b885,belt.equipment,available,19.99,,high,low,4,name.com,,
-4abe9ccb-cd44-4673-91fc-2b7923a76ca6,management.engineer,premium,78,78,high,low,10,namecheap,,
 bc204471-3798-46d9-98ec-40786a5d73f8,creating.engineer,available,13.99,,high,low,8,name.com,,
 998d700f-c357-48c3-b968-4e32df0777a5,trade.zip,premium,648.7,648.7,high,medium,5,namecheap,,
 0daf4ac7-4d62-42b9-9425-e8b7e944e4ad,material.diy,premium,910,1300,high,low,8,namecheap,,
@@ -663,7 +680,6 @@ abcd05d8-081b-4862-86e7-f5a762f84cb3,floor.supply,available,25.99,25.99,high,low
 124f29a5-f50d-4f5b-a7ad-9260364de900,technology.build,premium,1950,1950,high,low,10,namecheap,,
 f7703271-d1ff-4ed1-bc25-fcbea6d3c0f2,operation.business,available,3.99,,high,low,9,name.com,,
 6d60b9a2-f13b-41f6-9040-7715c6a3fa1d,metal.diy,premium,650,1300,high,low,5,namecheap,,
-d11c5330-1dea-47eb-9361-65c9467b24d2,engineer.trade,available,9.98,,high,low,8,namecheap,,
 232a0488-34c7-4985-aa1f-0dfee671c834,produce.enterprises,available,5.99,,high,low,7,name.com,,
 40ebf78c-2217-4048-ad35-b48121400e36,creation.construction,available,15.99,,high,low,8,name.com,,
 6a7d3e29-5a53-45be-9d54-d07a36d89a84,produce.gmbh,available,45.99,45.99,high,low,7,namesilo,,
@@ -676,6 +692,7 @@ f0f7863e-935a-4d4d-82b7-d294359300cf,natural.industries,available,17.49,,high,lo
 0586b815-12a1-43fa-a6b6-c44830ba9201,produce.ltd,available,9.99,,high,low,7,name.com,,
 673844be-6ec2-4ef2-b4dd-ba2b1da81c5e,produce.limited,available,14.99,,high,low,7,name.com,,
 28d27e47-9f73-4696-bb8a-c8c71738376a,efficiency.co,available,,,medium,high,10,,,
+c75819e5-9dd8-45f1-9c51-b526ccfa8342,factories.market,available,44.49,44.49,medium,low,9,namesilo,,
 703ad85e-330a-4dc2-af68-18a343a57934,mill.enterprises,available,5.99,,high,low,4,name.com,,
 0bd15ef3-0c2a-4540-bb77-a82348d0122d,business.ninja,available,,,high,medium,8,,,
 74746962-1328-4ab2-b841-1b11e588bacd,mill.llc,premium,625,,high,low,4,name.com,,
@@ -691,6 +708,7 @@ b9f81f92-a20d-466d-ba8b-7430334501ff,mill.sarl,available,6.99,6.99,high,low,4,na
 9560289c-dffb-4bae-9017-d13055027474,mass.company,premium,16.9,16.9,high,low,4,namecheap,,
 3b7f4c7c-c103-46fc-9cea-e497051c7d04,mill.limited,available,14.99,,high,low,4,name.com,,
 bd55f5f7-8f61-4fe7-8979-cbd385805dcf,mill.ltda,available,34.99,34.99,high,low,4,namesilo,,
+df7576d0-a444-4954-9bbf-8d322be77495,plants.lat,available,1.99,,high,low,6,name.com,,
 8094359e-08f7-404c-81bc-9c37255e1293,material.expert,available,11.99,79.99,high,low,8,name.com,,
 2e6a1b48-77c1-451c-ba4e-75d0ba236afe,trade.shopping,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",28/09/2016 16:00,28/09/2026 16:00
 f4c3f384-48ae-4d61-b269-58a3781d3ec1,metal.archi,available,24.99,,high,low,5,name.com,,
@@ -712,6 +730,7 @@ d3273464-09a5-42d6-8e86-ef4585c528df,unit.services,resell,,,high,low,4,Dynadot I
 ff531b76-cf80-476e-a20f-8aedf8a0e416,mill.holdings,available,64.99,64.99,high,low,4,namesilo,,
 14a41aad-2c78-4457-8dd2-d40b44320a21,labor.tech,premium,781.25,,medium,low,5,name.com,,
 b876c4de-1f95-4eaa-bc7e-01eb1ec98296,trade.condos,premium,128.7,128.7,high,medium,5,namecheap,,
+a97bb932-902a-442f-a4ad-7db2d884fe9c,transportation.forex,available,19.99,,medium,low,14,name.com,,
 64f4ab11-f5cf-4f1d-8d42-a6361e4559ab,design.consulting,available,,,high,medium,6,,,
 63f8fafa-63ae-4776-ad96-6f65a26999b9,trade.online,resell,718750,46.99,high,medium,5,Namify Domains Inc,02/04/2019 13:56,02/04/2029 23:59
 0c3a3537-789b-4d0a-af3a-32a8d46b36d0,trade.blue,resell,,,high,medium,5,"DNSPod, Inc.",25/12/2022 15:15,25/12/2026 15:15
@@ -724,18 +743,20 @@ e8376efc-d97f-40f0-9489-d6c1d5763792,trade.theater,available,19.99,,high,medium,
 d82a32b2-b60b-48e3-847d-b5961ea8e823,class.parts,available,15.99,,high,low,5,name.com,,
 01ed822c-6430-4d3d-8f0f-69793e23b5df,element.international,available,14.99,41.99,high,low,7,name.com,,
 7b58e85a-2f62-4b48-bd90-a9ea118be671,control.international,available,14.99,,high,low,7,name.com,,
-0ca9ee4b-8577-48b7-af74-3a4ee4f340c9,engineer.global,premium,3000,,high,low,8,name.com,,
 7e529aa6-68a7-4bc9-a4bf-462d80dcca0f,control.global,premium,3120,65,high,low,7,namecheap,,
 2e2711d4-ad3e-4e17-b2f8-35a088aa6aaa,engineer.international,available,14.99,,high,low,8,name.com,,
 0432c5ce-fc00-4d26-8598-51e1cb522012,trade.apartments,available,19.99,,high,medium,5,name.com,,
 09ad414a-a9cd-4b79-8d99-2069f1c4681a,commercial.engineer,premium,1300,1300,high,low,10,namecheap,,
 cd71fb02-b173-4c9b-969b-5663f64d1b34,mill.zone,available,14.99,,high,low,4,name.com,,
 89e82d66-efcd-4dc7-aaf9-c891823fa2d0,lathe.zone,available,,,high,high,5,,,
+1d85b3a6-9c5a-46a4-a952-90a0a57a4544,plants.trading,available,19.99,,high,low,6,name.com,,
 ec527672-a430-4336-b4c3-cbd377775ea2,metal.storage,available,509.99,529.99,high,low,5,namesilo,,
+6b809a0a-615d-4f79-b52f-d411905d3b09,organization.mobile,premium,750,,high,low,12,name.com,,
 05902a90-0163-4d58-8447-bca77adc652a,design.market,available,,,high,medium,6,,,
 061867f6-b4f0-4086-a58c-42e3dc2151f6,engineering.engineer,premium,1300,1300,high,low,11,namecheap,,
 81fb6c02-bd6f-482e-8b4b-056f27d321c1,economy.diy,premium,437.5,,high,low,7,name.com,,
 7ac62280-0417-457c-8001-956137f2c785,produce.construction,available,15.99,,high,low,7,name.com,,
+70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,781.25,3125,medium,low,10,name.com,,
 3ab19428-0da7-4fd8-b2f5-a8dda419dc04,transportation.tech,premium,781.25,3125,medium,low,14,name.com,,
 4f07182f-ec20-4d68-b655-9aee0aaf3118,facility.ai,resell,,,high,low,8,Deep Vision Architects,16/12/2017 04:22,15/04/2027 04:00
 75a13246-b3dd-40d1-9fb8-7ece200a82a1,creating.ai,resell,,,high,low,8,Deep Vision Architects,16/12/2017 02:06,21/08/2027 02:06
@@ -762,12 +783,12 @@ cd2df3d9-28fb-433b-b871-432bc8d3ff29,apparatus.co,resell,,,medium,high,9,1API Gm
 02fb6206-01b5-4210-808e-1b05a2b6b200,industrialize.co,resell,,,medium,low,13,"Spaceship, Inc.",02/07/2025 05:44,02/07/2026 23:59
 fba5a33d-5d5c-4c7b-9be0-042035c0e458,construction.co,resell,,,medium,low,12,Dynadot Inc,17/04/2026 12:12,17/04/2027 23:59
 6e967a53-65e0-4a61-9570-bfd82bfb5088,machinery.co,resell,,,medium,low,9,Dynadot Inc,08/09/2016 17:50,07/09/2027 23:59
-4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,,,high,low,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2027 04:00
 17929f05-178f-476d-9735-55e0bae834e8,trade.theatre,available,509.99,529.99,high,medium,5,namesilo,,
 26a8c0f0-159a-41ad-9e2e-8f29eb1cf00a,design.organic,available,19.99,,high,medium,6,name.com,,
 678abe2a-d829-4320-884d-939e1bfcdcda,mass.enterprises,available,5.99,50.99,high,low,4,name.com,,
 dfcc00f0-dde6-45c6-b54a-9d9874be67e6,operation.enterprises,available,5.99,,high,low,9,name.com,,
 41f79716-f3c2-4a12-843a-b5455febf56f,industrialized.tech,available,,,medium,high,14,,,
+299a67b4-89d1-4cc2-aebe-2f57d3a67c34,productive.parts,available,10.48,45.98,medium,low,10,namecheap,,
 af13916a-7455-4904-9532-85826c6d0dd3,mass.llc,available,19.99,54.99,high,low,4,name.com,,
 66ae4eaf-124d-4fe7-b0b1-6b7d2f18a5e2,operation.gmbh,available,45.99,45.99,high,low,9,namesilo,,
 a777f62e-a3ee-4897-9f52-9a9167251fcb,operation.llc,available,19.99,,high,low,9,name.com,,
@@ -799,12 +820,14 @@ a5776da0-dc3b-46bc-b0ae-8d2ceb7a55bf,operation.ltd,available,9.99,,high,low,9,na
 264a4101-3ed0-48bf-aee4-a499e7964ec1,trade.tires,premium,128.7,128.7,high,medium,5,namecheap,,
 e66f2087-4cfe-48d0-8821-731c9587630d,builder.tech,available,,,high,low,7,,,
 b9089661-743d-41c5-9c21-dd485e9f16d7,economy.expert,available,,,high,low,7,,,
+66f89741-2533-4744-8ca8-5d4a8bc6ee64,shops.supplies,available,32.48,,medium,low,5,namecheap,,
 591e0bf5-200a-413d-bb89-a51686c3377e,mass.engineering,available,11.99,86.99,high,low,4,name.com,,
 51739763-4d1b-4d0a-b5ea-8135280e9870,operation.engineering,available,11.99,,high,low,9,name.com,,
 18913db7-7990-4ebf-94bc-c360569424cf,operation.technology,available,17.99,,high,low,9,name.com,,
 bea12566-817b-4850-8360-542bcdcf7e5e,mass.technology,resell,,,high,low,4,"Domain.com - Network Solutions, LLC",19/02/2014 16:00,19/02/2027 16:00
 991a973c-f8a5-43d0-8ffe-fbd719bea19b,trade.navy,available,41.99,41.99,high,medium,5,namesilo,,
 6c727ecf-1552-4ca2-abef-e89a8659df24,trade.airforce,available,103.99,103.99,high,medium,5,namesilo,,
+0a23efe9-9a6e-464f-b540-287bb1380b9d,machinist.inc,premium,2015,2600,low,low,9,namecheap,,
 f448cea6-d21f-4516-b8e2-63c988aa205e,commercial.services,premium,520,520,high,low,10,namecheap,,
 ac31080f-9605-45e3-92e8-59aa27c76388,unit.contractors,available,9.99,,high,low,4,name.com,,
 aec533de-cf3a-4f67-be22-dbb423690655,quality.store,premium,781.25,,high,low,7,name.com,,
@@ -821,6 +844,7 @@ fc198c01-88f1-4a68-8ce2-398de83d5700,heavy.srl,available,49.99,,high,low,5,name.
 91e6ca2d-54b5-4cff-b546-acb8627dca6f,technology.space,premium,3250,13000,high,low,10,namecheap,,
 6430448e-d632-443b-8878-72b9b3b365f2,storage.space,resell,,,high,high,7,Dotserve Inc,02/04/2019 14:05,02/04/2029 23:59
 68b5dbe1-ea4a-42a1-bb7f-c2c3110f59c5,trade.nexus,premium,648.7,648.7,high,medium,5,namecheap,,
+54d62f57-e9c7-4465-89d9-532ff21d5a51,machines.courses,available,49.99,,medium,low,8,name.com,,
 b0a3d536-fd96-4e88-92e3-ff415e6db720,heavy.inc,premium,2170,2800,high,low,5,namecheap,,
 9b6a2770-f9f9-4774-b346-04a52ee58362,material.cyou,premium,430.95,574.6,high,low,8,namecheap,,
 f60df403-b09c-46c3-a9ff-04df56f4a321,line.services,available,,,high,low,4,,,
@@ -843,6 +867,7 @@ f4137571-2fe4-4191-875a-08e73b405002,metal.cyou,premium,71.83,287.3,high,low,5,n
 7f456f2e-7b4c-49c9-9711-7326f0f0b3d0,quality.tools,premium,500,,high,low,7,name.com,,
 43b1618a-52ea-4a93-8dde-20001d275064,economy.storage,available,799,,high,low,7,name.com,,
 646def9b-d87f-4bf0-a4f9-5ae46a032450,process.global,available,,,high,low,7,,,
+c6776559-4b03-4629-b8e0-96f07719d777,machinist.limited,available,14.99,52.99,low,low,9,name.com,,
 fe773373-3cc8-4bef-a084-8b24e310df25,metal.productions,premium,128.7,128.7,high,low,5,namecheap,,
 6beeaf27-ffff-4829-b676-1aff95042758,manufacture.zone,resell,,,high,high,11,"GoDaddy.com, LLC",25/03/2016 00:33,25/03/2026 00:33
 1a22d9ac-df3e-43d4-a644-44eafaaff3f4,operation.zone,available,14.99,,high,low,9,name.com,,
@@ -853,14 +878,16 @@ fe773373-3cc8-4bef-a084-8b24e310df25,metal.productions,premium,128.7,128.7,high,
 dde052a8-3ad7-44ff-b893-339097c7d4c3,tree.parts,available,15.99,,high,low,4,name.com,,
 7fc120df-2628-4213-847d-ce8374bb7242,material.bz,resell,,,high,low,8,"GoDaddy.com, LLC",16/08/2002 09:32,16/08/2026 09:32
 913ab1a4-c64a-411d-8872-d0760f21949a,firm.supplies,available,24.99,24.99,high,low,4,namesilo,,
+2dfe6f45-7e22-4e40-b8a7-9d055f3a998f,factories.film,available,65.99,65.99,medium,low,9,namesilo,,
 e12b0b6e-373a-4b3f-ba04-5f03b84bc270,trade.camera,resell,,,high,medium,5,united-domains GmbH,12/02/2014 16:00,12/02/2027 16:00
+517f129c-6496-43ad-91ff-f40bc44e842a,fabricated.services,available,5.48,51.98,low,low,10,namecheap,,
 d7512002-336e-4961-a62b-3cc3e37808f1,distribution.supply,available,25.99,25.99,medium,low,12,namesilo,,
 b031b31e-9fcf-403f-aacf-f6cb47919674,trade.fishing,premium,52,31.2,high,medium,5,namecheap,,
 f4b0b4e3-9acc-4e03-80f0-fed0dadc02db,component.build,premium,1875,1875,high,low,9,name.com,,
 ce538186-5e1d-41c1-b1b3-ebca0274f8d6,mechanical.build,available,39.98,,high,low,10,namecheap,,
 3a6f04fb-0fc8-4f9e-a6e3-300f40acef19,line.business,available,,,high,low,4,,,
 806c443e-d465-4f0c-82e4-133453d46767,engineering.business,premium,42.9,42.9,high,low,11,namecheap,,
-58af825a-e25d-41ed-a119-b0ac8cf463ff,engineer.digital,premium,46.2,92.4,high,low,8,namecheap,,
+18573da2-c8ef-4200-8640-755d21f5aad6,factories.mba,available,19.99,,medium,low,9,name.com,,
 250e3b1f-4f48-42eb-80b1-01b5befa9a21,trade.locker,premium,13000,58.5,high,medium,5,namecheap,,
 cd1e2c45-327c-4b12-af48-8b701c027202,material.green,premium,625,625,high,low,8,name.com,,
 06c07c17-fb62-4157-8337-8f7ecee1b9bd,quality.trade,available,,,high,high,7,,,
@@ -890,20 +917,17 @@ df9aa37d-abca-4263-8a28-a2cd75330ea8,material.im,available,,,high,low,8,,,
 4b34e7c9-110d-4a84-89d6-30e7de5e1c04,metal.green,premium,650,650,high,low,5,namecheap,,
 c106f01b-d53f-4d42-94eb-960286b6347b,creating.enterprises,available,5.99,,high,low,8,name.com,,
 61d208a9-29d1-4da0-b18a-00efcfd2a3fb,facility.enterprises,available,5.99,,high,low,8,name.com,,
-11e9ea97-6102-42ad-9a8e-7f92cd9766c7,management.enterprises,available,5.99,,high,low,10,name.com,,
 7a4544ab-a0ec-49e5-b991-401d60f7819e,commercial.company,resell,,,high,low,10,"Name.com, Inc.",29/07/2016 00:47,29/07/2028 00:47
 b154a810-dd2b-44b5-8370-c226ff683a5a,element.ninja,available,9.99,39.99,high,low,7,name.com,,
 440fe982-a44c-4154-a214-7e171cff3acf,economy.software,premium,123.75,,high,low,7,name.com,,
 b31b4ed6-540c-4905-be3a-2a3d17435ac3,facility.llc,available,19.99,,high,low,8,name.com,,
 f3a54c9e-ae86-4a90-9884-a77eeed2a3b3,creating.gmbh,available,45.99,45.99,high,low,8,namesilo,,
 55f11cae-9180-4b77-a4c9-1aadc72fcc26,creating.llc,available,19.99,,high,low,8,name.com,,
-4cbdb5f8-60a4-4503-9709-01d8c701ca52,management.llc,premium,2600,2600,high,low,10,namecheap,,
 19513d3d-3383-4b7b-9263-44d1b261c1bb,material.farm,available,13.99,50.99,high,low,8,name.com,,
 e6342853-4c30-4a70-8287-e31532ab1805,material.film,premium,125,125,high,low,8,name.com,,
 9e01393a-dbe0-45cb-bb21-821a7b083a05,material.mov,premium,161.25,161.25,high,low,8,name.com,,
 18c937ae-5d6a-4b93-9a05-0a6067d84f35,material.movie,available,69.99,436.99,high,low,8,name.com,,
 ab4dacc8-d052-4802-a179-870a5555210b,primary.parts,available,15.99,,high,low,7,name.com,,
-bab42fdf-1c90-4143-b21a-184d3b33c049,management.sarl,available,6.99,6.99,high,low,10,namesilo,,
 c3f6181a-9951-4c43-8809-75c3f125a99d,facility.srl,premium,54.28,30.68,high,low,8,namesilo,,
 fb1fea34-d125-4109-b0a7-411189897c0b,creating.srl,available,31.99,31.99,high,low,8,namesilo,,
 d912454f-58ab-476a-aa7d-8954073e2759,facility.sarl,available,6.99,6.99,high,low,8,namesilo,,
@@ -911,7 +935,6 @@ d912454f-58ab-476a-aa7d-8954073e2759,facility.sarl,available,6.99,6.99,high,low,
 2ed6bf8c-8755-4124-a7ce-9c841f7cddf4,creating.sarl,available,6.99,6.99,high,low,8,namesilo,,
 8f95d901-1e8f-415c-93c3-a39f4b2971ed,material.eco,premium,9375,113.99,high,low,8,name.com,,
 952b37a9-0a75-462a-8e73-1edf6580e1a3,facility.inc,premium,2061.5,2660,high,low,8,namesilo,,
-8a5c3587-4da8-4664-afbb-3e81fe3810b0,management.inc,premium,2015,2600,high,low,10,namecheap,,
 8ea0338b-3aa6-437a-8d3d-691c777c7548,creating.inc,premium,2061.5,2660,high,low,8,namesilo,,
 59f1d052-8407-4058-bd54-50c327127a20,business.works,premium,242,242,high,medium,8,namesilo,,
 0dd80024-6cc6-4bb1-b6d7-aa155ce12540,trade.photography,available,9.99,,high,medium,5,name.com,,
@@ -928,7 +951,6 @@ fd06266f-8815-4d43-961e-3dbe85eb9efb,metal.id,resell,,,high,low,5,PT Registrasi 
 041da85e-2ee2-4876-abbc-0b6f58813e89,line.company,available,,,high,low,4,,,
 c61752b2-9f58-4f48-9305-ea099dc12dd3,facility.limited,available,14.99,,high,low,8,name.com,,
 17cc829c-1519-4688-a323-f9c81af4a489,facility.ltd,available,9.99,,high,low,8,name.com,,
-0d3469b7-d1ff-42ff-8e4b-e518349c8a78,management.ltda,premium,66.3,66.3,high,low,10,namecheap,,
 4ef73f92-c956-49bc-a47f-363ac6ecacfe,unit.ltd,resell,,,high,low,4,Dynadot Inc,12/02/2026 17:00,12/02/2027 17:00
 677b95fc-d315-4ef2-9700-fae96cabfada,creating.ltda,available,34.99,34.99,high,low,8,namesilo,,
 9e3e4c05-0a49-4886-a6d8-6151229620b5,facility.ltda,premium,56.64,33.04,high,low,8,namesilo,,
@@ -977,25 +999,3 @@ a60d9d7b-ec3e-40b3-8a3c-af99a28ef03c,trade.gold,resell,,,high,medium,5,"Spaceshi
 28eeefad-5f64-42fc-b12a-2bcfce5dbcae,trade.luxury,premium,2600,2600,high,medium,5,namecheap,,
 3da0a7f0-295b-42b3-987d-eb52ed7d421a,trade.diamonds,premium,260,260,high,medium,5,namecheap,,
 a3c2b41a-ee32-40bf-a3b3-dbc16302fcf9,trade.capital,available,,,high,medium,5,,,
-066c0af4-ad73-44ae-b219-f29662c37059,plant.io,resell,,,high,high,5,Dynadot Inc,21/11/2010 21:37,21/11/2025 21:37
-fedf7eb9-5460-4353-8d03-9790fbff591e,economy.productions,available,14.99,,high,low,7,name.com,,
-291e83d9-5685-48a2-b61d-2832fcab02cf,network.tools,resell,,,high,medium,7,GoDaddy Online Services Cayman Islands Ltd.,09/08/2015 16:00,09/08/2031 16:00
-3a27a43e-2727-46ce-a8af-fa0094d33016,control.garden,premium,104,31.2,high,low,7,namecheap,,
-f6d93dce-a8d0-4abb-8d28-00c3878b45ec,engineer.garden,available,39.98,,high,low,8,namecheap,,
-89f4e84d-6244-417d-9c6b-8b309f6d0eee,element.garden,available,43.98,,high,low,7,namecheap,,
-dc50beb6-fdaa-418d-ab7b-4fa932b48f9e,trade.tattoo,available,34.99,34.99,high,medium,5,namesilo,,
-47cc0746-db6b-4a92-bf7f-c3f1dd634322,testing.enterprises,available,5.99,,high,low,7,name.com,,
-420cec7e-02a6-4a25-8ab6-4870f224654a,creating.zone,available,14.99,,high,low,8,name.com,,
-f02afe6f-7fef-4471-968c-9997820c6e46,facility.zone,available,14.99,,high,low,8,name.com,,
-109bbb56-1c5a-4ef5-ab62-99003b419154,management.zone,resell,,,high,low,10,"DNSPod, Inc.",16/10/2019 16:53,16/10/2026 16:53
-032f90f3-aa3c-4afb-8a4d-c1d6eaf373d9,trade.homes,premium,845,15.73,high,medium,5,namecheap,,
-451afe73-79b2-4c44-bbf1-d28ed3c1b4f8,trade.maison,premium,128.7,128.7,high,medium,5,namecheap,,
-fb66da3a-bc30-4d94-8377-516c9b104adc,trade.rentals,premium,128.7,128.7,high,medium,5,namecheap,,
-cdd2dfb4-7cf3-479f-83a5-19a073debab9,trade.casa,premium,52,13,high,medium,5,namecheap,,
-2da56d0f-1052-4e6b-8d2e-43b8e84ec8da,testing.llc,available,54.98,,high,low,7,namecheap,,
-c134effc-5882-45a5-9766-fb5153630f19,testing.srl,available,49.99,,high,low,7,name.com,,
-103e4461-c263-4d48-9a98-1118ce2ab117,testing.sarl,available,8.98,,high,low,7,namecheap,,
-708b8542-2450-4fa5-a3ac-f81f894b28fb,economy.bz,available,25,,high,low,7,name.com,,
-70afbf75-5780-4937-b7a0-3718cd1956e7,constructing.tech,available,,,medium,high,12,,,
-a1d9c5c1-81ff-483c-abdb-5030fb62958d,testing.inc,premium,2015,2600,high,low,7,namecheap,,
-70f9f261-530c-4b27-bfe1-135e0e3ab5ad,economy.market,premium,500,,high,low,7,name.com,,
