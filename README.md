@@ -16,7 +16,7 @@ This selection includes 167,816 one-word manufacturing domain names across 506 T
 
 **Public extract:** 1,000 rows · **Live catalog:** 198,920 domains · **Median ask:** $474.21 · **High-demand under $2,500:** 858
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                          |
-| ---------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| lean.accountants | available | $43.99        | $153.99       | low            | low    | 4      | name.com                                           |
-| metal.co         | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC                                      |
-| raw.fast         | premium   | $625          | $625          | low            | low    | 3      | name.com                                           |
-| lean.auto        | available | $1,999.99     | $2,199        | low            | low    | 4      | namesilo                                           |
-| material.com     | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC                               |
-| just.tech        | premium   | $781.25       | —             | high           | medium | 4      | name.com                                           |
-| lean.beauty      | available | $1.80         | $19.98        | low            | low    | 4      | namecheap                                          |
-| raw.ninja        | resell    | —             | —             | medium         | low    | 3      | Dynadot Inc                                        |
-| lean.bid         | premium   | $437.50       | $62.50        | low            | low    | 4      | name.com                                           |
-| lean.camera      | available | $21.99        | $75.99        | low            | low    | 4      | name.com                                           |
-| lean.cc          | resell    | —             | —             | low            | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.        |
-| lean.cooking     | premium   | $242          | $29.50        | low            | low    | 4      | namesilo                                           |
-| lean.car         | available | $1,999.99     | $2,199        | low            | low    | 4      | namesilo                                           |
-| lean.finance     | resell    | —             | —             | low            | low    | 4      | Porkbun LLC                                        |
-| lean.cv          | premium   | $1,309.75     | $87.75        | low            | low    | 4      | namecheap                                          |
-| lean.careers     | available | $28.98        | $89.98        | low            | low    | 4      | namecheap                                          |
-| lean.fish        | resell    | —             | —             | medium         | low    | 4      | Sav.com, LLC                                       |
-| lean.cyou        | premium   | $384          | $768          | low            | low    | 4      | namesilo                                           |
-| lean.claims      | available | $11.98        | $82.98        | low            | low    | 4      | namecheap                                          |
-| lean.love        | resell    | —             | —             | low            | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| belt.ryukyu  | available | $22.98    | —             | high           | low    | 4      | namecheap                                           |
+| grow.limited | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                    |
+| firm.shop    | premium   | $625      | —             | high           | low    | 4      | name.com                                            |
+| lean.archi   | available | $14.98    | $132.98       | low            | low    | 4      | namecheap                                           |
+| lean.bot     | resell    | —         | —             | low            | low    | 4      | NameCheap, Inc                                      |
+| lean.art     | premium   | $291.20   | $83.30        | low            | low    | 4      | namesilo                                            |
+| lean.auction | available | $4.99     | $52.99        | low            | low    | 4      | name.com                                            |
+| lean.camp    | resell    | —         | —             | low            | low    | 4      | Dynadot Inc                                         |
+| lean.boo     | premium   | $161.25   | $161.25       | low            | low    | 4      | name.com                                            |
+| lean.autos   | available | $1.80     | $19.98        | low            | low    | 4      | namecheap                                           |
+| lean.club    | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC                                    |
+| lean.dealer  | premium   | $2,015    | $2,600        | low            | low    | 4      | namecheap                                           |
+| lean.blue    | available | $13.98    | $32.98        | low            | low    | 4      | namecheap                                           |
+| lean.coffee  | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                     |
+| lean.fun     | premium   | $781.25   | $3,125        | low            | low    | 4      | name.com                                            |
+| lean.casa    | available | $1.98     | $17.98        | medium         | low    | 4      | namecheap                                           |
+| lean.energy  | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 34                                   |
+| lean.garden  | premium   | $854      | $29.50        | low            | low    | 4      | namesilo                                            |
+| lean.casino  | available | $6.98     | $191.98       | low            | low    | 4      | namecheap                                           |
+| lean.games   | resell    | —         | —             | low            | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
