@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (207,707)
+# One-Word Manufacturing Domain Names (79,014)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-207%2C707%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-79%2C014%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **207,707 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **79,014 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 207,707 domains · **Median ask:** $460.82 · **High-demand under $2,500:** 846
+**Public extract:** 1,000 rows · **Live catalog:** 79,014 domains · **Median ask:** $494.60 · **High-demand under $2,500:** 244
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| lie.ryukyu        | available | $22.98    | —             | medium         | low    | 3      | namecheap        |
-| production.energy | resell    | $21.99    | —             | medium         | low    | 10     | Spaceship, Inc.  |
-| part.site         | premium   | $325      | $1,300        | medium         | low    | 4      | namecheap        |
-| firm.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap        |
-| production.me     | resell    | $861.35   | $27.99        | medium         | low    | 10     | GoDaddy.com, LLC |
-| goods.trading     | premium   | $500      | —             | high           | low    | 5      | name.com         |
-| crude.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap        |
-| production.org    | resell    | $113,850  | $21.99        | medium         | low    | 10     | Dynadot Inc      |
-| shops.health      | premium   | $625      | —             | medium         | low    | 5      | name.com         |
-| shops.airforce    | available | $134.98   | —             | medium         | low    | 5      | namecheap        |
-| production.pw     | resell    | $3.99     | $24.49        | medium         | low    | 10     | GoDaddy.com, LLC |
-| shops.meme        | premium   | $812.50   | —             | medium         | low    | 5      | name.com         |
-| shops.cars        | available | $2,950    | —             | medium         | low    | 5      | namecheap        |
-| leaf.management   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| shops.press       | premium   | $937.50   | —             | medium         | low    | 5      | name.com         |
-| shops.dance       | available | $17.99    | —             | medium         | low    | 5      | name.com         |
-| mill.social       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
-| shops.sale        | premium   | $500      | —             | medium         | low    | 5      | name.com         |
-| shops.degree      | available | $14.99    | —             | medium         | low    | 5      | name.com         |
-| depot.company     | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| lab.audio     | available | $104.99   | $114.99       | high           | medium | 3      | namesilo            |
+| machines.rent | resell    | $29.99    | —             | low            | low    | 8      | name.com            |
+| lab.shop      | premium   | $1,250    | —             | high           | medium | 3      | name.com            |
+| lean.casino   | available | $6.98     | $191.98       | low            | low    | 4      | namecheap           |
+| hub.ceo       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.     |
+| lean.icu      | premium   | $384      | $768          | low            | low    | 4      | namesilo            |
+| lean.events   | available | $10.48    | $57.98        | low            | low    | 4      | namecheap           |
+| lab.media     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC         |
+| lean.law      | premium   | $1,150    | $1,150        | low            | low    | 4      | name.com            |
+| lean.lighting | available | $14.99    | $33.99        | low            | low    | 4      | name.com            |
+| food.media    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| lean.prof     | premium   | $198.75   | $198.75       | low            | low    | 4      | name.com            |
+| lean.movie    | available | $40.98    | $446.98       | low            | low    | 4      | namecheap           |
+| food.place    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| lean.soy      | premium   | $98.75    | $98.75        | low            | low    | 4      | name.com            |
+| lean.pet      | available | $6.98     | $35.98        | low            | low    | 4      | namecheap           |
+| lean.network  | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC    |
+| shop.channel  | premium   | $1,248.75 | —             | high           | medium | 4      | name.com            |
+| lean.plumbing | available | $14.99    | $94.99        | low            | low    | 4      | name.com            |
+| lean.zone     | resell    | —         | —             | low            | low    | 4      | UM DOMAINS PTE. LTD |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 207,707 live domains                       |
+| 1,000-row public sample | 79,014 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 846 high-demand names under $2,500         |
+| Basic exported fields   | 244 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
