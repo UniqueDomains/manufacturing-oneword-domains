@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (50,282)
+# One-Word Manufacturing Domain Names (44,140)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C282%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-44%2C140%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **50,282 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **44,140 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 50,282 domains · **Median ask:** $425.53 · **High-demand under $2,500:** 127
+**Public extract:** 1,000 rows · **Live catalog:** 44,140 domains · **Median ask:** $388.28 · **High-demand under $2,500:** 78
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| machinery.guitars | available | $104.99   | $114.99       | high           | low    | 9      | namesilo                        |
-| industrial.travel | available | $39.99    | —             | high           | low    | 10     | name.com                        |
-| lean.apartments   | available | $19.99    | $83.99        | high           | low    | 4      | name.com                        |
-| industrial.fyi    | resell    | $19.50    | $19.50        | high           | low    | 10     | GoDaddy.com, LLC                |
-| lean.accountant   | premium   | $625      | $81.25        | high           | low    | 4      | name.com                        |
-| lean.auto         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                        |
-| industrial.la     | resell    | $4,145.75 | —             | high           | low    | 10     | VIPDomains.LA  Founders Program |
-| lean.faith        | premium   | $625      | $81.25        | high           | low    | 4      | name.com                        |
-| lean.beauty       | available | $1.80     | $19.98        | high           | low    | 4      | namecheap                       |
-| industrial.repair | resell    | $9.99     | —             | high           | low    | 10     | Spaceship, Inc.                 |
-| lean.fishing      | premium   | $96       | $29.50        | high           | low    | 4      | namesilo                        |
-| lean.careers      | available | $28.98    | $89.98        | high           | low    | 4      | namecheap                       |
-| raw.ninja         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                     |
-| lean.garden       | premium   | $854      | $29.50        | high           | low    | 4      | namesilo                        |
-| lean.condos       | available | $58.99    | $58.99        | high           | low    | 4      | namesilo                        |
-| raw.now           | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                     |
-| lean.loan         | premium   | $1,107    | $116          | high           | low    | 4      | namesilo                        |
-| lean.contractors  | available | $9.99     | $45.99        | high           | low    | 4      | name.com                        |
-| cast.money        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                     |
-| lean.meme         | premium   | $812.50   | $812.50       | high           | low    | 4      | name.com                        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| industrial.travel | available | $39.99    | —             | high           | low    | 10     | name.com                                    |
+| raw.markets       | available | $5.98     | $26.98        | high           | low    | 3      | namecheap                                   |
+| industrial.fyi    | resell    | $19.50    | $19.50        | high           | low    | 10     | GoDaddy.com, LLC                            |
+| raw.channel       | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com                                    |
+| lean.bargains     | available | $14.98    | $37.98        | high           | low    | 4      | namecheap                                   |
+| industrial.la     | resell    | $4,145.75 | —             | high           | low    | 10     | VIPDomains.LA  Founders Program             |
+| raw.properties    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| lean.boats        | available | $1.80     | $19.98        | high           | low    | 4      | namecheap                                   |
+| industrial.repair | resell    | $9.99     | —             | high           | low    | 10     | Spaceship, Inc.                             |
+| lean.boston       | premium   | $500      | $30.99        | high           | low    | 4      | name.com                                    |
+| lean.camera       | available | $21.99    | $75.99        | high           | low    | 4      | name.com                                    |
+| raw.ventures      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 41                           |
+| lean.cv           | premium   | $1,309.75 | $87.75        | high           | low    | 4      | namecheap                                   |
+| lean.cars         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                    |
+| lean.cc           | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| lean.esq          | premium   | $198.75   | $198.75       | high           | low    | 4      | name.com                                    |
+| lean.cruises      | available | $14.99    | $81.99        | high           | low    | 4      | name.com                                    |
+| lean.finance      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                 |
+| lean.free         | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                    |
+| lean.dance        | available | $10.48    | $36.98        | high           | low    | 4      | namecheap                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 50,282 live domains                        |
+| 1,000-row public sample | 44,140 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 127 high-demand names under $2,500         |
+| Basic exported fields   | 78 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
