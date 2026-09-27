@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (100,557)
+# One-Word Manufacturing Domain Names (101,203)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-100%2C557%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-101%2C203%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **100,557 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **101,203 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 100,557 domains · **Median ask:** $415.84 · **High-demand under $2,500:** 104
+**Public extract:** 1,000 rows · **Live catalog:** 101,203 domains · **Median ask:** $416.50 · **High-demand under $2,500:** 209
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 100,557 live domains                       |
+| 1,000-row public sample | 101,203 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 104 high-demand names under $2,500         |
+| Basic exported fields   | 209 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
