@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (141,455)
+# One-Word Manufacturing Domain Names (143,028)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-141%2C455%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-143%2C028%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **141,455 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **143,028 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 141,455 domains · **Median ask:** $310.34 · **High-demand under $2,500:** 343
+**Public extract:** 1,000 rows · **Live catalog:** 143,028 domains · **Median ask:** $307.21 · **High-demand under $2,500:** 329
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
@@ -25,7 +25,7 @@ This selection includes 167,816 one-word manufacturing domain names across 506 T
 <p align="center">
   <a href="https://unique.domains/domains/sector/manufacturing?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./manufacturing.csv">CSV</a> / <a href="./manufacturing.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -64,24 +64,24 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| plant.cab           | available | $33.98    | $41.98        | high           | low    | 5      | namecheap        |
+| plant.discount      | available | $30.99    | $30.99        | high           | low    | 5      | namesilo         |
 | industrial.autos    | resell    | $1.99     | —             | high           | low    | 10     | Spaceship, Inc.  |
-| plant.build         | premium   | $1,950    | $1,950        | high           | low    | 5      | namecheap        |
-| plant.fishing       | available | $25.20    | $25.20        | high           | low    | 5      | cloudflare       |
+| plant.fm            | premium   | $305.33   | $87.98        | high           | low    | 5      | spaceship        |
+| plant.enterprises   | available | $11.49    | $35.99        | high           | low    | 5      | namesilo         |
+| industrial.boats    | resell    | $1.99     | —             | high           | low    | 10     | Spaceship, Inc.  |
+| plant.loan          | premium   | $362.45   | $51.95        | high           | low    | 5      | spaceship        |
+| plant.express       | available | $9.31     | $32.21        | high           | low    | 5      | dynadot          |
 | industrial.deals    | resell    | $5.99     | —             | high           | low    | 10     | GoDaddy.com, LLC |
-| plant.parts         | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
-| plant.limited       | available | $29.18    | $29.18        | high           | low    | 5      | spaceship        |
-| industrial.run      | resell    | $6.99     | —             | high           | low    | 10     | Spaceship, Inc.  |
-| plant.site          | premium   | $258.95   | $1,035.20     | high           | low    | 5      | spaceship        |
-| plant.marketing     | available | $8.99     | $41.99        | high           | low    | 5      | namesilo         |
+| plant.ltd           | premium   | $21.45    | $42.90        | high           | low    | 5      | namecheap        |
+| plant.organic       | available | $17.99    | $85.99        | high           | low    | 5      | namesilo         |
 | production.bio      | resell    | $9.99     | —             | high           | low    | 10     | Dynadot Inc      |
-| plant.space         | premium   | $2,500.20 | $3,450        | high           | low    | 5      | unstoppable      |
-| plant.ski           | available | $26.50    | $64.99        | high           | low    | 5      | unstoppable      |
+| plant.rsvp          | premium   | $648.70   | $648.70       | high           | low    | 5      | namecheap        |
+| plant.promo         | available | $10.55    | $19.87        | high           | low    | 5      | spaceship        |
 | production.me       | resell    | $861.35   | $27.99        | high           | low    | 10     | GoDaddy.com, LLC |
-| factory.auction     | premium   | $242      | $242          | high           | low    | 7      | namesilo         |
-| plant.wine          | available | $7.45     | $47.81        | high           | low    | 5      | spaceship        |
+| plant.website       | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo         |
+| plant.sarl          | available | $6.99     | $6.99         | high           | low    | 5      | namesilo         |
 | production.org      | resell    | $113,850  | $21.99        | high           | low    | 10     | Dynadot Inc      |
-| factory.boston      | premium   | $47.20    | $21.24        | high           | low    | 7      | namesilo         |
+| factory.auction     | premium   | $242      | $242          | high           | low    | 7      | namesilo         |
 | factory.accountants | available | $117.99   | $117.99       | high           | low    | 7      | namesilo         |
 | production.pw       | resell    | $3.99     | $24.49        | high           | low    | 10     | GoDaddy.com, LLC |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 141,455 live domains                                 |
+| 1,000-row public sample | 143,028 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 343 high-demand names under $2,500                   |
+| Basic exported fields   | 329 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/manufacturing?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_manufacturing_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
