@@ -1,10 +1,10 @@
-# One-Word Manufacturing Domain Names (165,366)
+# One-Word Manufacturing Domain Names (167,507)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-165%2C366%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-167%2C507%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 167,816 one-word manufacturing domain names across 506 TLDs, with a median ask of $558. It spans a wide mix of extensions and price points, giving investors and founders a broad view of manufacturing-themed names. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **165,366 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **167,507 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 165,366 domains · **Median ask:** $273.49 · **High-demand under $2,500:** 338
+**Public extract:** 1,000 rows · **Live catalog:** 167,507 domains · **Median ask:** $270.34 · **High-demand under $2,500:** 398
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/manufacturing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| plant.barcelona   | available | $38.98    | $38.98        | high           | low    | 5      | namecheap                                    |
-| industrial.run    | resell    | $6.99     | —             | high           | low    | 10     | Spaceship, Inc.                              |
-| plant.forsale     | premium   | $520      | $520          | high           | low    | 5      | namecheap                                    |
-| plant.democrat    | available | $7.25     | $7.25         | high           | low    | 5      | namesilo                                     |
-| industrial.wiki   | resell    | $4,501.10 | —             | high           | low    | 10     | Xiamen ChinaSource Internet Service Co., Ltd |
-| plant.game        | premium   | $1,729    | $1,729        | high           | low    | 5      | namesilo                                     |
-| plant.gratis      | available | $18.83    | $18.83        | high           | low    | 5      | spaceship                                    |
-| production.bio    | resell    | $9.99     | —             | high           | low    | 10     | Dynadot Inc                                  |
-| plant.green       | premium   | $1,300    | $1,300        | high           | low    | 5      | namecheap                                    |
-| plant.holdings    | available | $76.48    | $91.98        | high           | low    | 5      | namecheap                                    |
-| production.energy | resell    | $21.99    | —             | high           | low    | 10     | Spaceship, Inc.                              |
-| plant.inc         | premium   | $1,604.45 | $2,070.20     | high           | low    | 5      | spaceship                                    |
-| plant.melbourne   | available | $58       | $58           | high           | low    | 5      | namesilo                                     |
-| production.info   | resell    | $2,143.60 | $35.99        | high           | low    | 10     | Sea Wasp, LLC                                |
-| plant.meme        | premium   | $362.45   | $362.45       | high           | low    | 5      | spaceship                                    |
-| plant.rest        | available | $2.19     | $28.99        | high           | low    | 5      | namesilo                                     |
-| production.org    | resell    | $113,850  | $21.99        | high           | low    | 10     | Dynadot Inc                                  |
-| plant.mobile      | premium   | $1,035.20 | $1,035.20     | high           | low    | 5      | spaceship                                    |
-| plant.tienda      | available | $47.81    | $47.81        | high           | low    | 5      | spaceship                                    |
-| production.pw     | resell    | $3.99     | $24.49        | high           | low    | 10     | GoDaddy.com, LLC                             |
+| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                       |
+| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| plant.film          | available | $65.99     | $65.99        | high           | low    | 5      | namesilo                        |
+| industrial.fyi      | resell    | $19.50     | $19.50        | high           | low    | 10     | GoDaddy.com, LLC                |
+| plant.courses       | premium   | $103.70    | $103.70       | high           | low    | 5      | spaceship                       |
+| plant.jetzt         | available | $23.99     | $23.99        | high           | low    | 5      | namesilo                        |
+| industrial.la       | resell    | $4,145.75  | —             | high           | low    | 10     | VIPDomains.LA  Founders Program |
+| plant.esq           | premium   | $649.20    | $671.92       | high           | low    | 5      | unstoppable                     |
+| plant.kitchen       | available | $10.99     | $64.99        | high           | low    | 5      | namesilo                        |
+| industrial.repair   | resell    | $9.99      | —             | high           | low    | 10     | Spaceship, Inc.                 |
+| plant.foo           | premium   | $257.92    | $257.92       | high           | low    | 5      | spaceship                       |
+| plant.ltda          | available | $34.99     | $34.99        | high           | low    | 5      | namesilo                        |
+| production.energy   | resell    | $21.99     | —             | high           | low    | 10     | Spaceship, Inc.                 |
+| plant.icu           | premium   | $390       | $780          | high           | low    | 5      | namecheap                       |
+| plant.srl           | available | $31.99     | $31.99        | high           | low    | 5      | namesilo                        |
+| production.info     | resell    | $2,143.60  | $35.99        | high           | low    | 10     | Sea Wasp, LLC                   |
+| plant.ing           | premium   | $10,350.20 | $10,350.20    | high           | low    | 5      | spaceship                       |
+| plant.wedding       | available | $25.20     | $25.20        | high           | low    | 5      | cloudflare                      |
+| production.me       | resell    | $861.35    | $27.99        | high           | low    | 10     | GoDaddy.com, LLC                |
+| plant.ngo           | premium   | $546.35    | $273.44       | high           | low    | 5      | porkbun                         |
+| factory.accountants | available | $117.99    | $117.99       | high           | low    | 7      | namesilo                        |
+| production.org      | resell    | $113,850   | $21.99        | high           | low    | 10     | Dynadot Inc                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 165,366 live domains                                 |
+| 1,000-row public sample | 167,507 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 338 high-demand names under $2,500                   |
+| Basic exported fields   | 398 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Manufacturing Domain Names*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
